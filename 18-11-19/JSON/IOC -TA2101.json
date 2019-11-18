@@ -1,0 +1,86 @@
+[
+    {
+        "Indicator":  "44991186a56b0d86581f2b9cc915e3af426a322d5c4f43a984e6ea38b81b7bed",
+        "Description":  "Document"
+    },
+    {
+        "Indicator":  "cfd8e3a47036c4eeeb318117c0c23e126aea95d1774dae37d5b6c3de02bdfc2a",
+        "Description":  "Document"
+    },
+    {
+        "Indicator":  "9f2139cc7c3fad7f133c26015ed3310981de26d7f1481355806f430f9c97e639",
+        "Description":  "Document"
+    },
+    {
+        "Indicator":  "5f1e512d9ab9b915b1fc925f546ed559cbfa49df53229e2f954a1416cf6f5ee4",
+        "Description":  "Document"
+    },
+    {
+        "Indicator":  "97043f23defd510607ff43201bb03b9916a23bd71b5bdf97db357e5026732506",
+        "Description":  "Document"
+    },
+    {
+        "Indicator":  "d617fd4b2d0824e1a7eb9693c6ec6e71447d501d24653a8e99face12136491a8",
+        "Description":  "Document"
+    },
+    {
+        "Indicator":  "7e3ab96d2628e0a9970802b47d0356dc9b99994d7f98492d4e70a5384891695a",
+        "Description":  "Document"
+    },
+    {
+        "Indicator":  "antowortensienicht@bzst-infomieren.icu",
+        "Description":  "Spoofed sending domain"
+    },
+    {
+        "Indicator":  "info@agenziaentrate.icu",
+        "Description":  "Spoofed sending domain"
+    },
+    {
+        "Indicator":  "antwortensienicht@bzstinform.icu",
+        "Description":  "Spoofed sending domain"
+    },
+    {
+        "Indicator":  "uspsdelivery-service.com",
+        "Description":  "Spoofed sending domain"
+    },
+    {
+        "Indicator":  "http://198.50.168.67/wordpack.tmp",
+        "Description":  "Cobalt Strike"
+    },
+    {
+        "Indicator":  "http://conbase.top/sys.bat",
+        "Description":  "Cobalt Strike"
+    },
+    {
+        "Indicator":  "http://104.168.198.208/wordupd.tmp",
+        "Description":  "Maze Ransomware"
+    },
+    {
+        "Indicator":  "http://104.168.215.54/wordupd.tmp",
+        "Description":  "Maze Ransomware"
+    },
+    {
+        "Indicator":  "http://104.168.174.32/wordupd_3.0.1.tmp",
+        "Description":  "Maze Ransomware"
+    },
+    {
+        "Indicator":  "http://192.119.68.225/wordupd1.tmp",
+        "Description":  "Buran Ransomware"
+    },
+    {
+        "Indicator":  "http://108.174.199.10/wordupd3.tmp",
+        "Description":  "Buran Ransomware"
+    },
+    {
+        "Indicator":  "http://54.39.233.175/wupd19823.tmp",
+        "Description":  "Buran Ransomware"
+    },
+    {
+        "Indicator":  "http://54.39.233.131/word1.tmp",
+        "Description":  "Buran Ransomware"
+    },
+    {
+        "Indicator":  "http://104.168.198.230/wordupd.tmp",
+        "Description":  "IcedID"
+    }
+]
