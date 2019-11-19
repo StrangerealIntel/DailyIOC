@@ -1,0 +1,46 @@
+[
+    {
+        "Indicator":  "b0d4e64c6827871ca63d87a6fd59c036eb26344a6e0dfdce6183e41385f5f592",
+        "Description":  "VBA maldoc"
+    },
+    {
+        "Indicator":  "b02376d6c0ec692248f95c41dab570dbdd387d31d184f0ab14d529e053ca332e",
+        "Description":  "GET2 downloader"
+    },
+    {
+        "Indicator":  "b92c0506a0555dcaa2c0fb959ecffca1f7667fbdecccc5e1acaa87b14f88eace",
+        "Description":  "GET2 downloader"
+    },
+    {
+        "Indicator":  "cb855b21356e6562e5657bcf08a400b7eef69154f80e63616b1693a916902e94",
+        "Description":  "GET2 downloader"
+    },
+    {
+        "Indicator":  "fda4554fab6726f14fcfc5f62b2be869bd2140d9e6f81ac25c109f498cb60dd1",
+        "Description":  "SDBbot Remote Access Trojan"
+    },
+    {
+        "Indicator":  "1b007d87657b328d9a3fbed4bdf5bab7a684edbe80387cf9ad71f26c2ad73981",
+        "Description":  "SDBbot Remote Access Trojan"
+    },
+    {
+        "Indicator":  "5b14e02eceda8f1d37f5d7c3735d2df0ccdb120dd9e4760048d6a6b3e718f2ec",
+        "Description":  "SDBbot Remote Access Trojan"
+    },
+    {
+        "Indicator":  "2.56.213.20",
+        "Description":  "IP C2"
+    },
+    {
+        "Indicator":  "208.95.112.1",
+        "Description":  "IP C2"
+    },
+    {
+        "Indicator":  "microsoft-cnd-en.com",
+        "Description":  "Domain C2"
+    },
+    {
+        "Indicator":  "drm-server-booking.com",
+        "Description":  "Domain C2"
+    }
+]
