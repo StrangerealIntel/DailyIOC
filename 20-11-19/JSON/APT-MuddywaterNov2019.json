@@ -62,5 +62,29 @@
     {
         "Indicator":  "148839e013fee10ee5007f80de2e169778739e84d1bbb093f69b56060ceef73f",
         "Description":  "NeedDedicatedServer.xls"
+    },
+    {
+        "Indicator":  "581d050513978f2d339e5138c5bbd66c97f8e85512c8f895886f0c8ca8868431",
+        "Description":  "581d050513978f2d339e5138c5bbd66c97f8e85512c8f895886f0c8ca8868431.xls"
+    },
+    {
+        "Indicator":  "2ad0c8e29a364005f3aa0aaab770f919f8a65202b06721143e2d19dc6b75f323",
+        "Description":  "Instructions.xls"
+    },
+    {
+        "Indicator":  "bb09d7b7941879e50782319ae903474f3117584e4f54c6dbe587f4994121b2b1",
+        "Description":  "Instructions.xls"
+    },
+    {
+        "Indicator":  "d00c4d4c3fec1eec334f8633ca5d0708d5c6967bee05710a6d1cb92f94f78af7",
+        "Description":  "22.xls"
+    },
+    {
+        "Indicator":  "78f78c3ed9b6dee1c8d6ec8a173847ab356e2836e7f24be3f76103ca7a498911",
+        "Description":  "ImportantNotice.xls"
+    },
+    {
+        "Indicator":  "a325349e810154b700b530da25c54383907a27c58c2e8ba056cce2b865aad3bf",
+        "Description":  "ImportantNotice.xls"
     }
 ]
