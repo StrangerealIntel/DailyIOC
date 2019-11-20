@@ -43,13 +43,13 @@
 <a href="https://app.any.run/tasks/0e09ac26-592f-4860-8e7f-e383d05b47ed">https://app.any.run/tasks/0e09ac26-592f-4860-8e7f-e383d05b47ed</a>
 </li>
 <li>
-<a href="https://app.any.run/tasks/2b5f2ae9-f449-4b6d-a8d8-a3b3babdebc3">https://app.any.run/tasks/2b5f2ae9-f449-4b6d-a8d8-a3b3babdebc3/a>
+<a href="https://app.any.run/tasks/2b5f2ae9-f449-4b6d-a8d8-a3b3babdebc3">https://app.any.run/tasks/2b5f2ae9-f449-4b6d-a8d8-a3b3babdebc3</a>
 </li>
 <li>
 <a href="https://app.any.run/tasks/a353b9de-f836-4d5a-8286-0cf0d884657e">https://app.any.run/tasks/a353b9de-f836-4d5a-8286-0cf0d884657e</a>
 </li>
 <li>
-<a href="https://app.any.run/tasks/1f0da370-147f-4406-8dfb-5a33b24ac197">https://app.any.run/tasks/1f0da370-147f-4406-8dfb-5a33b24ac197/a>
+<a href="https://app.any.run/tasks/1f0da370-147f-4406-8dfb-5a33b24ac197">https://app.any.run/tasks/1f0da370-147f-4406-8dfb-5a33b24ac197</a>
 </li>
 </ul>
 
