@@ -1,0 +1,18 @@
+[
+    {
+        "Indicator":  "1f094dd65be477d15d871e72f0fdce5e",
+        "Description":  ""
+    },
+    {
+        "Indicator":  "adf43c6957fd11e45ffa4f2a71eb0ef565da9c4a9bc9cd101d2ac485b5358c469",
+        "Description":  "dns.dll"
+    },
+    {
+        "Indicator":  "b7b9afdee000c1ffd248c68408f2226c",
+        "Description":  ""
+    },
+    {
+        "Indicator":  "fead0633975c6c08f5509a7bd5c34d29bfdcacd3da47562efbf33121726f77b0",
+        "Description":  "dttcodexgigas.exe"
+    }
+]
