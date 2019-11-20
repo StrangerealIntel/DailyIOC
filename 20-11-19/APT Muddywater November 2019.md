@@ -1,5 +1,11 @@
 <h1>APT Muddywater IOC November 2019</h1>
-<h6>Ref: <a href="https://twitter.com/ClearskySec/status/1197189600864800768">https://twitter.com/ClearskySec/status/1197189600864800768</a></h6>
+<h6>Ref:</h6>
+<ul>
+  <li><a href="https://twitter.com/ClearskySec/status/1197189600864800768">https://twitter.com/ClearskySec/status/1197189600864800768</a>
+  </li>
+  <li><li><a href="https://twitter.com/FDjoes/status/1197228731179393024">https://twitter.com/FDjoes/status/1197228731179393024</a>
+  </li>
+</ul>
 
 |Indicator|Description|
 | ------------- |:-------------:|
@@ -19,6 +25,12 @@
 |d8823ee70109ce789639748933a45c723060040597d17925cb605ad8f7f85a14|export.xls|
 |2f69f7df7a2ab7b1803bb50b23ac17f7047b4651513bdff98dae5adee492c98f|srv-specification.xls|
 |148839e013fee10ee5007f80de2e169778739e84d1bbb093f69b56060ceef73f|NeedDedicatedServer.xls|
+|581d050513978f2d339e5138c5bbd66c97f8e85512c8f895886f0c8ca8868431|581d050513978f2d339e5138c5bbd66c97f8e85512c8f895886f0c8ca8868431.xls|
+|2ad0c8e29a364005f3aa0aaab770f919f8a65202b06721143e2d19dc6b75f323|Instructions.xls|
+|bb09d7b7941879e50782319ae903474f3117584e4f54c6dbe587f4994121b2b1|Instructions.xls|
+|d00c4d4c3fec1eec334f8633ca5d0708d5c6967bee05710a6d1cb92f94f78af7|22.xls|
+|78f78c3ed9b6dee1c8d6ec8a173847ab356e2836e7f24be3f76103ca7a498911|ImportantNotice.xls|
+|a325349e810154b700b530da25c54383907a27c58c2e8ba056cce2b865aad3bf|ImportantNotice.xls|
 
 <h6>This can be exported in <a href="https://raw.githubusercontent.com/StrangerealIntel/DailyIOC/master/20-11-19/JSON/APT-MuddywaterNov2019.json">JSON</a></h6>
 
@@ -50,6 +62,15 @@
 </li>
 <li>
 <a href="https://app.any.run/tasks/1f0da370-147f-4406-8dfb-5a33b24ac197">https://app.any.run/tasks/1f0da370-147f-4406-8dfb-5a33b24ac197</a>
+</li>
+  <li>
+<a href="https://app.any.run/tasks/0a97b09f-77ba-49b6-9682-68bb771c3cdc">https://app.any.run/tasks/0a97b09f-77ba-49b6-9682-68bb771c3cdc</a>
+</li>
+  <li>
+<a href="https://app.any.run/tasks/377ca311-5de8-45bb-9f16-7c6a46d8943c">https://app.any.run/tasks/377ca311-5de8-45bb-9f16-7c6a46d8943c</a>
+</li>
+  <li>
+<a href="https://app.any.run/tasks/d3f1e104-99e9-4ccb-99e6-a4d31099b480">https://app.any.run/tasks/d3f1e104-99e9-4ccb-99e6-a4d31099b480</a>
 </li>
 </ul>
 
