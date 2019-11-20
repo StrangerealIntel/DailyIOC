@@ -1,10 +1,12 @@
 <h1>APT Muddywater IOC November 2019</h1>
 <h6>Ref:</h6>
 <ul>
-  <li><a href="https://twitter.com/ClearskySec/status/1197189600864800768">https://twitter.com/ClearskySec/status/1197189600864800768</a>
-  </li>
-  <li><li><a href="https://twitter.com/FDjoes/status/1197228731179393024">https://twitter.com/FDjoes/status/1197228731179393024</a>
-  </li>
+<li>
+  <a href="https://twitter.com/ClearskySec/status/1197189600864800768">https://twitter.com/ClearskySec/status/1197189600864800768</a>
+</li>
+<li>
+<a href="https://twitter.com/FDjoes/status/1197228731179393024">https://twitter.com/FDjoes/status/1197228731179393024</a>
+</li>
 </ul>
 
 |Indicator|Description|
