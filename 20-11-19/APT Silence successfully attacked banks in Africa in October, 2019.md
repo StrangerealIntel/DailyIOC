@@ -8,6 +8,6 @@
 |b7b9afdee000c1ffd248c68408f2226c||
 |fead0633975c6c08f5509a7bd5c34d29bfdcacd3da47562efbf33121726f77b0|dttcodexgigas.exe|
 
-<h6>This can be exported in <a href="https://raw.githubusercontent.com/StrangerealIntel/DailyIOC/master/20-11-19/JSON/APT-Silence.json"></a>
+<h6>This can be exported in <a href="https://raw.githubusercontent.com/StrangerealIntel/DailyIOC/master/20-11-19/JSON/APT-Silence.json">JSON</a>
 
 
