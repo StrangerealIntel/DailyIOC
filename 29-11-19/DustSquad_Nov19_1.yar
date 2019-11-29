@@ -35,6 +35,8 @@ rule APT_DustSquad_PE_Nov19_1 {
       $s16 = "ffffffffffffffg" fullword ascii /* reversed goodware string 'gffffffffffffff' */
       $s17 = "Successfull API call7Not enough memory is available to complete this request" wide
       $s18 = "The handle specified is invalid'The function reques" wide
+      $s19 = "1????????.*" wide
+      $s20 = "/d.php?servers" wide
    condition:
       uint16(0) == 0x5a4d and filesize < 8000KB and
       ( pe.imphash() == "9a622f807282a29fb32811b734622622" or ( 1 of ($x*) or 4 of them ) )
