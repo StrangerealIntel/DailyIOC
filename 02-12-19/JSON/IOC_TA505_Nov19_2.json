@@ -1,0 +1,134 @@
+[
+    {
+        "Indicator":  "A7A849895CFB3C24A599ABA4CA4BEB66D149E60765F7801C47C18D9D8035E826",
+        "Description":  "gehaltsliste_112019.xls"
+    },
+    {
+        "Indicator":  "35dcf764216d51e64e40bc0eef932d2e2ea1e2a4387421d62a332d5d1a00a71d",
+        "Description":  "payroll-0291-11.2019.xls"
+    },
+    {
+        "Indicator":  "f605a19ee858e7c3f5dd3df878388a168c253b66c906b75edd998710ebcd5339",
+        "Description":  "8b21d4069b839644600912920dcf940ac93323de.xls"
+    },
+    {
+        "Indicator":  "c87ffdc93949d1a45afe1c6033d5fd6d4c8c4bb8ffb34df6a248913ef7ccb18c",
+        "Description":  "7ee256883ff23bd2ec167f004095233714c694c5.xls"
+    },
+    {
+        "Indicator":  "7ab81e08460041def8c5a5e342285335a06cc4456f9e0b38c4b4a1cd6ed916a8",
+        "Description":  "E878689F.xls"
+    },
+    {
+        "Indicator":  "1b47e4c5f2f55b924e73867f019e9d5d7bd285aa8ea9ce605ef99fac14a7a9fd",
+        "Description":  "payroll-0291-11.2019.xls"
+    },
+    {
+        "Indicator":  "523672c47f38b67ed6da3888af6b0c8bd7bc170f085f4907ecb27a91f9a349f2",
+        "Description":  "pr.xls"
+    },
+    {
+        "Indicator":  "d9952d434618324ec545560ef1381f6d2b6457df0b6502c9ac26c3d9f5147681",
+        "Description":  "AUINVOICE_1-EPX7XBN.xls"
+    },
+    {
+        "Indicator":  "4135d8af1548d16e4b88aa06e5055d4afc44dff42ebff9adb1b69708d477544f",
+        "Description":  "AUINVOICE_1-EPX7XBN.xls"
+    },
+    {
+        "Indicator":  "5f81a770bcc01ca42e1ef927b249cc394656deb2cddda3e61dee4ce637309f01",
+        "Description":  "AUINVOICE_1-EPX7XBN.xls"
+    },
+    {
+        "Indicator":  "63be02e41ab9d5a969e9a97cfde4a72145595a6e7f5ccfba1db6edf0872c1013",
+        "Description":  "AUINVOICE_1-EPX7XBN.xls"
+    },
+    {
+        "Indicator":  "098e087cf28a84d5255d03fdc0e861dfc166479c2932919af954986b4026b283",
+        "Description":  "INVOICE_1-EPX7XBN.xls"
+    },
+    {
+        "Indicator":  "44119ea6d339ce543259ec0c4cbd3248972e3319ce6fc3130d05898000d63443",
+        "Description":  "INVOICE_1-EPX7XBN.xls"
+    },
+    {
+        "Indicator":  "b9e31e284f066fe40782dc93e2c3cc24adcc47a4ea60e73bbb1ece8cf090d240",
+        "Description":  "vds.xlsx"
+    },
+    {
+        "Indicator":  "9f61172157d378d63d867aafa64ac975e007cc763c6bf84053c8dccc3457d24c",
+        "Description":  "vds.xlsx"
+    },
+    {
+        "Indicator":  "d68695bf828d156154f422bacc385d3c383c68495013bbc7b01160c37e16165c",
+        "Description":  "vds.xlsx"
+    },
+    {
+        "Indicator":  "2824402C07B7AC07303E169CD6050A5057D343AFC6E4495C4E5EF5285F6DB823",
+        "Description":  "oleObject1.bin"
+    },
+    {
+        "Indicator":  "5030c0d758ea28f79fdbe06cb45613ec4e82d8dc7a5b3b75e714135b19197a6b",
+        "Description":  "oleObject1.bin"
+    },
+    {
+        "Indicator":  "e26572afcc29b703cd4d109e479cf70d6dd5e703ff888f10396070f5a2ab15bb",
+        "Description":  "oleObject1.bin"
+    },
+    {
+        "Indicator":  "app3.boxfiles-en.com",
+        "Description":  "Domain delivery "
+    },
+    {
+        "Indicator":  "app4.boxfiles-en.com",
+        "Description":  "Domain delivery "
+    },
+    {
+        "Indicator":  "cdn01.boxcdn.net",
+        "Description":  "Domain delivery "
+    },
+    {
+        "Indicator":  "dl1.sharefile-us.com",
+        "Description":  "Domain delivery"
+    },
+    {
+        "Indicator":  "dl3.sharefile-us.com",
+        "Description":  "Domain delivery "
+    },
+    {
+        "Indicator":  "msonebox.com",
+        "Description":  "Domain C2"
+    },
+    {
+        "Indicator":  "microsoft-home-en.com",
+        "Description":  "Domain C2"
+    },
+    {
+        "Indicator":  "windows-service-us.com",
+        "Description":  "Domain C2"
+    },
+    {
+        "Indicator":  "45.137.148.176",
+        "Description":  "IP delivery"
+    },
+    {
+        "Indicator":  "104.16.74.20",
+        "Description":  "IP delivery"
+    },
+    {
+        "Indicator":  "104.18.103.56",
+        "Description":  "IP delivery"
+    },
+    {
+        "Indicator":  "185.99.133.76",
+        "Description":  "IP C2"
+    },
+    {
+        "Indicator":  "185.214.10.114",
+        "Description":  "IP C2"
+    },
+    {
+        "Indicator":  "45.67.231.175",
+        "Description":  "IP C2"
+    }
+]
