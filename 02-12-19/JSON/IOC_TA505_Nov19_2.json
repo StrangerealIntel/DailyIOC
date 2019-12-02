@@ -92,8 +92,24 @@
         "Description":  "Domain delivery"
     },
     {
+        "Indicator":  "dl2.sharefiles-us.com",
+        "Description":  "Domain delivery"
+    },
+    {
         "Indicator":  "dl3.sharefile-us.com",
         "Description":  "Domain delivery "
+    },
+    {
+        "Indicator":  "dl1.sharefiles-en.com",
+        "Description":  "Domain delivery"
+    },
+    {
+        "Indicator":  "dl2.sharefiles-en.com",
+        "Description":  "Domain delivery"
+    },
+    {
+        "Indicator":  "dl3.sharefiles-en.com",
+        "Description":  "Domain delivery"
     },
     {
         "Indicator":  "msonebox.com",
