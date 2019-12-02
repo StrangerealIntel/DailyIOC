@@ -1,5 +1,6 @@
 <h1>IOC TA505 November 2019</h1>
-<h2>IOC</h2>
+<h5> Ref : <a href="https://twitter.com/58_158_177_102/status/1201460865666441216">https://twitter.com/58_158_177_102/status/1201460865666441216<a></h5>
+<h5>IOC</h5>
 
 |IOC|Description|
 | ------------- |:-------------:|
@@ -26,7 +27,11 @@
 |app4.boxfiles-en.com|Domain delivery |
 |cdn01.boxcdn.net|Domain delivery |
 |dl1.sharefile-us.com|Domain delivery|
+|dl2.sharefiles-us.com|Domain delivery|
 |dl3.sharefile-us.com|Domain delivery |
+|dl1.sharefiles-en.com|Domain delivery|
+|dl2.sharefiles-en.com|Domain delivery|
+|dl3.sharefiles-en.com|Domain delivery|
 |msonebox.com|Domain C2|
 |microsoft-home-en.com|Domain C2|
 |windows-service-us.com|Domain C2|
