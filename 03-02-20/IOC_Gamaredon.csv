@@ -1,10 +1,17 @@
 Date,Type,Indicator,Name
+29/01/2020,SHA256,df64eddc8c7a9027f337064d7f21bf434f82d3fc5c8a88c1ea8b516c963e7427,Довідка.docx
+29/01/2020,SHA256,e5e10633d988defc2bfba4ffee1cea1773ecf6b74b66e4355d2f5eecbb793c1e,kilo.dot
+29/01/2020,Domain Requested,karab.hopto.org,
+29/01/2020,Domain Requested,sonik.hopto.org,
+29/01/2020,URL Requested,http://karab.hopto.org/sarg.dot,
+29/01/2020,URL Requested,http://karab.hopto.org/kilo.dot,
+29/01/2020,Domain C2,sonik.hopto.org,
 29/01/2020,SHA256,86aee1533f7fc8bf7aebf1a145ca4b1684e1a915ef6aacd41ec9b777120eabaa,Про результати діяльності.docx
 29/01/2020,Domain Requested,selena.myftp.biz,
 29/01/2020,URL Requested,http://selena.myftp.biz/lushtom.dot,
 29/01/2020,SHA256,f9deaf990d31695640613c36c286097ec28826c069ad6f100c75dfd868af44a8,lushtom.dot
 29/01/2020,IP C2,188.225.25.50,
-29/01/2020,Domain C2 ,babir.bounceme.net,
+29/01/2020,Domain C2,babir.bounceme.net,
 29/01/2020,SHA256,a73fb3591f390ba0395f069c8ecb2279aa87f04542762185f9ff48fd45c96561,security.vbs
 24/01/2020,SHA256,d841c60175e711d3678e1be3942892e17d60a53705f48d4fce04936755aef261,Концепція виборів 2020.docx
 24/01/2020,Domain Requested,kentes.hopto.org,
@@ -22,16 +29,16 @@ Date,Type,Indicator,Name
 14/01/2020,URL Requested,http://dochlist.hopto.org/opt.dot,
 14/01/2020,SHA256,1b2626661380f7ac8d51dc8873f6e94a6316aaafc73955be418f9284ef7c2716,opt.dot
 14/01/2020,SHA256,f3c950805fc027b5a4871cb6f5c3600fa350f47f61485d9a112b53261b4569da,security.vbs
-14/01/2020,Domain C2 ,skrembler.hopto.org,
+14/01/2020,Domain C2,skrembler.hopto.org,
 14/01/2020,SHA256,d65f81bc4392907401d39882a4c9e69d8b6f418b11f88a41cf72ebd4296e5762,20110020141.docx
 12/01/2020,SHA256,c1524a4573bc6acbe59e559c2596975c657ae6bbc0b64f943fffca663b98a95f,xOtAJwL.exe
 12/01/2020,SHA256,86977a785f361d4f26eb3e189293c0e30871de3c93b19653c26a31dd4ed068cc,8957.cmd
 12/01/2020,SHA256,3dfadf9f23b4c5d17a0c5f5e89715d239c832dbe78551da67815e41e2000fdf1,28847.exe
-12/01/2020,Domain C2 ,masseffect.space,
+12/01/2020,Domain C2,masseffect.space,
 12/01/2020,IP C2,185.200.241.88,
 10/01/2020,SHA256,1b5b7f88c200b7f0d19816211f81b99683d5c853c0e99bc6b98348f0e72fe64f,1b5b7f88c200b7f0d19816211f81b99683d5c853c0e99bc6b98348f0e72fe64f.docx
 10/01/2020,Domain Requested,pasive.ddns.net,
-10/01/2020,Domain C2 ,listenwork.ddns.net,
+10/01/2020,Domain C2,listenwork.ddns.net,
 10/01/2020,URL Requested, http://pasive.ddns.net/creatives.dot,
 10/01/2020,SHA256,cf4f504d42ee9a464151ed56f9bc15c8b533d48ff62a763add2b2742fd5cc7bc,creatives.dot
 24/12/2019,SHA256,86e0701349903105b0c346df9485dd59d85dd9463c2bee46d974ea1b1d7059d4,71001791.docx
@@ -40,12 +47,12 @@ Date,Type,Indicator,Name
 24/12/2019,URL Requested,http://document-out.hopto.org/pos.dot,
 24/12/2019,SHA256,1a2a97b4bebfd1edd01b0a37d66119b439976b1cccfd2fe0fb882e6f913556fc,mf.dot
 24/12/2019,SHA256,feb0596e9735e03ae929d9b5ee862da19e16e5cdf57dd2a795205e591a55940f,pos.dot
-24/12/2019,Domain C2 ,libcrash.ddns.net,
+24/12/2019,Domain C2,libcrash.ddns.net,
 24/12/2019,SHA256,1440a896ac5d5efc834154ae47f2ce80f675474cf73ad9cb25ab238ab68ba85c,6147838.docx
 06/12/2019,URL Requested,http://reklama-network.ddns.net/nato.dot,
 06/12/2019,SHA256,8f3567e909bc66652fbeb12d974181c5babd4847b63d4e2eb5935e40d894d540,security.vbs
 06/12/2019,Domain Requested,reklama-network.ddns.net,
-06/12/2019,Domain C2 ,kavkazwork.ddns.net,
+06/12/2019,Domain C2,kavkazwork.ddns.net,
 26/11/2019,SHA256,432416bf2f8ce260e492a4c212d58e6eebf89bc8fe63e39b264d5411ae030886,nato.dot
 25/11/2019,SHA256,647dfdf939de6a8d9f7572c389910c8fe4b469676162e6f02e23ef79e3be4868,povid 343_9130.docx
 25/11/2019,SHA256,47723574d99719733f87e1859e80cfbd88c5c482428344593d2d025bf2108368,Запит_ГУР.docx
