@@ -7,6 +7,8 @@ Date,Type,Indicator,Name
 2020-05-02,SHA256,470fc42a9bce42ab74d62811d1682a31b4c203e8268b0e745e269e330236c431,token.txt
 2020-05-02,SHA256,603506996b902b8797cbc1dc4bf350440caad5c59feb97c39344fd7648403b5d,kt_new.png
 2020-05-02,SHA256,ecdec7d959171a829e14ebc1a13a3705ef203dd83e7fa6015d89261c2a832536,32368288_lopi9829
+2020-05-02,URL Requested,http://nhc-gov.com/%E6%AD%A6%E6%B1%89%E6%97%85%E8%A1%8C%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86%E7%94%B3%E8%AF%B7%E8%A1%A8.xlsm,
+2020-05-02,URL Requested,http://nhc-gov.com/h_879834932/%E5%8D%AB%E7%94%9F%E9%83%A8%E6%8C%87%E4%BB%A4.docx
 2020-05-02,URL Requested,http://nhc-gov.com/form.html?OZBTg_TFORM,
 2020-05-02,Domain Requested,nhc-gov.com,
 2020-05-02,URL Requested,http://nhc-gov.com/h_879834932/卫生部指令.docx,
