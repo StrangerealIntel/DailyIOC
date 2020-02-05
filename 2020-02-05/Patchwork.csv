@@ -1,0 +1,28 @@
+Date,Type,Indicator,Name
+2020-05-02,SHA256,013790b1dcdd7b9288cf749aef4d8bb499197a86edd05b302abb7142f458ec9a,submit_details.exe
+2020-05-02,SHA256,32bf0fcc3145d58baa9fcb092a756ca8aa8aee3fa2f7ffd3e87943920df75b0f,卫生部指令.docx
+2020-05-02,SHA256,0fbde9b2a041b22a1ab0dbb04c2e4765120af3efb4d3139434ceadda665d7409,window.jpeg
+2020-05-02,SHA256,733f94b5080f75228e7ddebc7f1029ec0dac89a76d5dbd0b703e3c4a406ee663,window.sct
+2020-05-02,SHA256,fc7c04af29790f0e7240770dcea60ac8fbeb51e2827ae284481845d7bd8bc978,武汉旅行信息收集申请表.xlsm 
+2020-05-02,URL Requested,http://nhc-gov.com/form.html?OZBTg_TFORM,
+2020-05-02,Domain Requested,nhc-gov.com,
+2020-05-02,URL Requested,http://nhc-gov.com/h_879834932/卫生部指令.docx,
+2020-05-02,URL Requested,http://45.153.184.67/window.sct,
+2020-05-02,URL Requested,http://45.153.184.67/window.jpeg,
+2020-05-02,URL Requested,https://45.138.172.168/qhupdate/msquery,
+2020-05-02,Domain requested,94.140.114.136,
+2020-05-02,Domain requested,45.153.184.67,
+2020-05-02,Domain requested,151.101.0.133,
+2020-05-02,Domain requested,140.82.118.3,
+2020-05-02,Domain C2,185.193.38.24,
+2020-05-02,URL Requested,http://185.193.38.24/windows.sct,
+2020-05-02,URL Requested,https://185.193.38.24/cnc/register,
+2020-05-02,URL Requested,https://185.193.38.24/cnc/tasks/request,
+2020-05-02,URL Requested,http://185.193.38.24/,
+2020-05-02,URL Requested,https://github.com/nhcprc/qw_785789988/blob/master/submit_details.exe,
+2020-05-02,URL Requested,https://chinadaily-news.com/n2012228aumki7339990n/32368288_lopi9829,
+2020-05-02,URL Requested,https://api.github.com/repos/ccps268/meetingid/git/blobs/d956fbd55581e178658da908cb36cd93431cd9e1,
+2020-05-02,URL Requested,https[://raw.githubusercontent.com/ccps268/meetingid/master/syncup/token.txt,
+2020-05-02,URL Requested,https://45.138.172.168/qhupdate/msquery,
+2020-05-02,URL Requested,http://185.244.131.139/winmail/kt_new.png,
+2020-05-02,URL Requested,https://bit.ly/2CkRLI5,
