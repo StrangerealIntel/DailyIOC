@@ -1,0 +1,25 @@
+Date,Type,Indicator,Name
+2020-02-09,SHA256,ac4947a5bac4f4278c1fdb8c27c2d9b97a8fe22722f000739cebc21bda04ac3c,gnome-shell-ext
+2020-02-09,SHA256,0ca075e430cefa13c57323bd6937746df916967a868af8fa20b2ec18e9d862cf,ShellExt_stealth.sh
+2020-02-09,URL Requested,http://init-p01st.push.apple.com/bag,
+2020-02-09,Domain C2,init-p01st.push.apple.com,
+2020-02-09,IP C2,104.91.166.129,
+2020-02-09,SHA256,511b150e3ecc233cbec4e098302ad1e7e12239a2de558421b578a45b80297a86,gnome-shell-ext-updater
+2020-02-09,SHA256,b642a2aaf5b83316485581e547d61775cbd83805e3fa605fe5c7ca7794e36e82,gnome-shell-ext.sh
+2020-02-09,Domain C2,e673.dsce9.akamaiedge.net,
+2020-02-09,Domain C2,e6987.a.akamaiedge.net,
+2020-02-09,Domain C2,cs9.wac.phicdn.net,
+2020-02-09,Domain C2,e6987.e9.akamaiedge.net,
+2020-02-09,Domain C2,gspe1-ssl.ls.apple.com,
+2020-02-09,IP C2,172.224.116.197,
+2020-02-09,IP C2,23.198.5.192,
+2020-02-09,IP C2,72.21.91.29,
+2020-02-09,IP C2,172.224.164.58,
+2020-02-09,IP C2,17.57.144.22,
+2020-02-09,IP C2,17.248.136.118,
+2020-02-09,IP C2,23.204.147.18,
+2020-02-09,IP C2,17.249.25.246,
+2020-02-09,IP C2,17.253.120.204,
+2020-02-09,IP C2,72.247.5.53,
+2020-02-09,IP C2,172.217.11.170,
+2020-02-09,IP C2,34.210.150.241,
