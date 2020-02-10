@@ -10,3 +10,5 @@ Date,Type,Indicator,Name
 2020-02-10,URL,http://marcuskirol.online/tempik/log.exe,
 2020-02-10,Domain Requested,marcuskirol.online,
 2020-02-10,IP Requested,198.54.120.199,
+2020-02-10,IP C2,162.241.226.28,
+2020-02-10,Domain C2,hypnotheratapes.com,
