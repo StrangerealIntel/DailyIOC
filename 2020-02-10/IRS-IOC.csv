@@ -1,0 +1,12 @@
+Date,Type,Indicator,Name
+2020-02-10,URL,http://marcuskirol.online/tempik/screen.exe,
+2020-02-10,SHA256,9a2c0cd6ca4a33f4829e469c18112aaef42b394a1e7b659ba64e1ba11939c9ce,screen.exe
+2020-02-10,URL,http://marcuskirol.online/tempik/ButAgents.txt,
+2020-02-10,URL,http://marcuskirol.online/tempik/LogAgents.txt,
+2020-02-10,URL,http://marcuskirol.online/tempik/aboutBut.php,
+2020-02-10,URL,http://marcuskirol.online/tempik/aboutlog.php,
+2020-02-10,SHA256,7aa823cf867f1bfe31ec245a5505c7fb590b4f8c679beb57410b56289b44ff09,but.exe
+2020-02-10,SHA256,3f42fc9b022fa02c055a5d627f142a4fc83d38c26ee8e6c5ff5093247befe0cb,but.exe_old
+2020-02-10,URL,http://marcuskirol.online/tempik/log.exe,
+2020-02-10,Domain Requested,marcuskirol.online,
+2020-02-10,IP Requested,198.54.120.199,
