@@ -3,3 +3,4 @@ Date,Type,Indicator,Name
 2020-02-10,SHA256,8dbc1fe386f9a60df625d08409ea082beb69c8390324e87360d1b937a6b8cfb3,runtime_report.dll
 2020-02-10,SHA256,495dbde95e696c93ebbec6a1b1a4637bda44a6d6a4aa893ca21076f327c4e5ca,process104.dll
 2020-02-10,SHA256,dba360b855a3fdcd5f3a04481844274cfd5a3fe8778beeeca0318a40ede6ef21,pubpool.dll
+2020-02-10,Domain C2,musicstore.global.ssl.fastly.net,
