@@ -1,0 +1,27 @@
+Date,Type,Indicator,Name
+2020-02-14,SHA256,cba2097f45442dc452c141d1b7f89e16e8227318053e2f42e320e4efd62f7741,inv_635070.doc
+2020-02-14,URL,http://toughdomain.xyz/mz53lzi8ak2vq5q6rdrp/fbzpvm.bin,
+2020-02-14,SHA256,21d0762242818dc6d4213c046e13440780a1894cc548a56496ca789f474913be,fbzpvm.bin
+2020-02-14,Domain Requested,toughdomain.xyz,
+2020-02-14,Domain C2,198.167.140.176,
+2020-02-14,Domain C2,216.177.137.25,
+2020-02-14,URL,http://fatslimboy.xyz/cprhcohrpmpbbxdofret/mozilla.bin,
+2020-02-14,SHA256,324d5c3821afb54176e5d04671a812310893a3c30162de3dcbd76f41ed4c5ffd,mozilla.bin
+2020-02-14,SHA256,6ac42f582401369b841082c482efb81059949131ded003356dfbb175b67eb56b,kE0JFkpLrX.exe
+2020-02-14,SHA256,36ad92e4b56cf754a0e04b4f564d4f1cdd3f43c621eb95a03d6c7bd11e04cec6,36ad92e4b56cf754a0e04b4f564d4f1cdd3f43c621eb95a03d6c7bd11e04cec6
+2020-02-14,PDB Path,cFJ,
+2020-02-14,Domain C2,198.167.140.176,
+2020-02-14,URL,https://198.167.140.176/,
+2020-02-14,SHA256,45435dc57349b7de57a92794b2adf459cee77ef241fa93da8e4b867c6b58991d,AN586226555696.pdf.vbs
+2020-02-14,SHA256,45e0408d3ae2647cb9be835a5277eb7de41c83d8e473d22d5b3772c2f65305fb,designmatter.dll
+2020-02-14,PDB Path,c:\Drive\necessary\Heat\Set\above\cleanduring.pdb,
+2020-02-12,SHA256,8e628a26955831a281170288f7de82168660565bb2269d5b455450fb601cdd43,invoice_159753.htm
+2020-02-12,SHA256,9a7c262e7589f1661d527797bb58c640908a4cd16c93f27bb1ca57d042aaacb1,invoice_159753.doc
+2020-02-12,SHA256,21d0762242818dc6d4213c046e13440780a1894cc548a56496ca789f474913be,Caff54e1.exe
+2020-02-12,URL,http://randomone.xyz/,
+2020-02-12,URL,http://randomone.xyz/invoice_159753.doc,
+2020-02-12,URL,http://bloodborne.xyz/chrome.bin,
+2020-02-12,Domain Requested,randomone.xyz,
+2020-02-12,Domain Requested,bloodborne.xyz,	
+2020-02-12,Mutex,DBWinMutex,
+2020-02-12,Domain Requested,47.74.48.98,
