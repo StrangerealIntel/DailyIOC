@@ -8,6 +8,7 @@ Date,Type,Indicator,Name
 2020-02-15,URL Requested,http://error-office.myftp.biz/wirdir.dot,
 2020-02-11,Domain C2,writedoc.bounceme.net,
 2020-02-11,Domain C2,solod.bounceme.net,
+2020-02-11,IP C2,176.57.215.115,
 2020-02-11,SHA256,92a2e3b3c9409d27d6a9ad0b6f6ba1fca06a1085b31361448ff982cc355ae50e,41211089112.docx
 2020-02-11,SHA256,4dd6c0a22d4b5ff8d33c8ed45c23cc23159fd7c8f6e9e19e90fce80103cbdc50,payload_1.exe
 2020-02-11,URL Requested,http://writedoc.bounceme.net/versiya.dot,
