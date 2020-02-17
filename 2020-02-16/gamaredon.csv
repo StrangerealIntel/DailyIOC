@@ -41,7 +41,6 @@ Date,Type,Indicator,Name
 2020-02-09,IP C2,34.210.150.241,
 2020-02-04,IP C2,141.8.195.60,
 2020-02-04,IP C2,188.225.25.50,
-2020-02-04,Domain C2,masseffect.space,
 2020-02-04,SHA256,c1524a4573bc6acbe59e559c2596975c657ae6bbc0b64f943fffca663b98a95f,xOtAJwL.exe
 2020-02-04,SHA256,76ea98e1861c1264b340cf3748c3ec74473b04d042cd6bfda9ce51d086cb5a1a,провадження.docx
 2020-02-04,SHA256,e2cb06e0a5c14b4c5f58d0e56a1dc10b6a1007cf56c77ae6cb07946c3dfe82d8,apu.dot
@@ -80,6 +79,7 @@ Date,Type,Indicator,Name
 2020-01-14,SHA256,d65f81bc4392907401d39882a4c9e69d8b6f418b11f88a41cf72ebd4296e5762,20110020141.docx
 2020-01-12,SHA256,86977a785f361d4f26eb3e189293c0e30871de3c93b19653c26a31dd4ed068cc,8957.cmd
 2020-01-12,SHA256,3dfadf9f23b4c5d17a0c5f5e89715d239c832dbe78551da67815e41e2000fdf1,28847.exe
+2020-01-12,SHA256,145a61a14ec6d32b105a6279cd943317b41f1d27f21ac64df61bcdd464868edd,WuaucltIC.exe
 2020-01-12,Domain C2,masseffect.space,
 2020-01-12,IP C2,185.200.241.88,
 2020-01-10,SHA256,1b5b7f88c200b7f0d19816211f81b99683d5c853c0e99bc6b98348f0e72fe64f,1b5b7f88c200b7f0d19816211f81b99683d5c853c0e99bc6b98348f0e72fe64f.docx
@@ -113,6 +113,10 @@ Date,Type,Indicator,Name
 2019-11-22,URL Requested,http://win-gu.ddns.net/win.dot,
 2019-11-22,SHA256,7fb0e03a7992c61279520c14893b0cf4679984242b9c5071c62a476f64fb0b20,templates.vbs
 2019-11-22,SHA256,77de4191226422ccf4c897c5d6390b5a58115517525efd3ffb4eb13c776d4d62,win.dot
+2019-11-19,Domain Requested,win-apu.ddns.net,
+2019-11-19,Domain Requested,get-icons.ddns.net,
+2019-11-19,URL  Requested,http://win-apu.ddns.net/apu.dot,
+2019-11-19,URL  Requested,http:/get-icons.ddns.net/apu.dot,
 2019-11-11,Domain Requested,office-lite.ddns.net,
 2019-11-11,URL Requested,http://office-lite.ddns.net/lite.dot,
 2019-11-11,SHA256,8d0c02d05b56a43d9fe2cf1e7df45d5bc2784af89226dc6403264256ba708e31,Запит.docx
