@@ -6,6 +6,8 @@ Date,Type,Indicator,Name
 2020-02-15,SHA256,65768b96918a26ad548ecf9d6c4801029f21207801e91c35803b8c7af5ae8cb4,копії документів.docx
 2020-02-15,URL Requested,http://error-office.myftp.biz/mod.dot,
 2020-02-15,URL Requested,http://error-office.myftp.biz/wirdir.dot,
+2020-02-13,URL Requested,http://error-office.myftp.biz/his.dot,
+2020-02-13,URL Requested,http://error-office.myftp.biz/setting.dot,
 2020-02-11,Domain C2,writedoc.bounceme.net,
 2020-02-11,Domain C2,solod.bounceme.net,
 2020-02-11,IP C2,176.57.215.115,
