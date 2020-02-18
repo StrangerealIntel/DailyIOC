@@ -1,10 +1,10 @@
 Date,Type,Indicator,Name
-2020-02-18,URL,http://secvoi.bounceme.net/templs.dot,
-2020-02-18,URL,http://westunion.bounceme.net/emails.dot,
-2020-02-18,URL,http://hedriks.bounceme.net/emails.dot,
+2020-02-18,URL Requested,http://secvoi.bounceme.net/templs.dot,
+2020-02-18,URL Requested,http://westunion.bounceme.net/emails.dot,
+2020-02-18,URL Requested,http://hedriks.bounceme.net/emails.dot,
 2020-02-18,Domain C2,http://sabdja.3utilities.com,
 2020-02-18,SHA256,fd8de97c7be6be03bfbe398058998994348407b29af5624855d98c24e91e077b,dod_91301035.docx
-2020-02-18,MD5,c8178099e0d3c41b167deb1ebddf04d9,emails.dot
+2020-02-18,SHA256,d2f336055e8cc8f4556f3c405ac7957f74d89d2d59f944859a0a89fcf4b77bef,emails.dot
 2020-02-15,Domain C2,error-office.myftp.biz,
 2020-02-15,Domain C2,error-word.myftp.biz,
 2020-02-15,IP C2,141.8.194.74,
