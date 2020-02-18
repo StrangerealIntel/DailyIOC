@@ -1,0 +1,42 @@
+Date,Type,Indicator,Name
+2020-02-18,URL,http://app.en.cdn-box.com,
+2020-02-18,SHA256,42e03c19ae4111d55a337f50b222547e875e0c14c2e5aa409357fc4a7da9b8fb,Technical Assignment.xls
+2020-02-18,Domain C2,app.en.cdn-box.com,
+2020-02-18,IP C2,92.38.184.220,
+2020-02-18,SHA256,c34f58a80ac0125aa1561b42ff58d7caf0bc7cc542241ffa379b7e95ce22812d,specification.xls
+2020-02-18,SHA256,92e3eaa59d5509906e8864065bdd4e193c4b081426eeb64ae7bc187f2d5f8bf8,stadr_.dll
+2020-02-18,Domain C2,home-storages.com,
+2020-02-18,IP C2,62.113.255.104,
+2020-02-14,URL,http://de.cdn.sharefiles-download.com,
+2020-02-14,URL,http://en.cdn.sharefiles-download.com,
+2020-02-14,Domain Request,de.cdn.sharefiles-download.com,
+2020-02-14,Domain Request,en.cdn.sharefiles-download.com,
+2020-02-14,IP Request,5.255.96.179,
+2020-02-14,SHA256,91cb6cbd6d79511563e9c12f9bf7e9851c1e96d8509ab3c5bf168c029ec5a451,7442-29e4c3ae7979400af124177a8cf866ba.xls
+2020-02-14,SHA256,e4ab886c4df4e79fb150abd64eafbfa8fd1930a552f05e98d9d58d65ad18c9f9,stadr_.dll
+2020-02-14,Domain C2,ms-upgrades.com,
+2020-02-14,IP C2,94.130.230.59,
+2020-02-13,SHA256,36b0a3c7803356727124173124ab6207c9edca8ff5785991d81c0163ac39c758,DOC130219-171355.xls
+2020-02-13,SHA256,3760b42608a90e61e110ad68620232d28f0948a2b2cc6b76255366a20f7a8aa7,stadr_.dll		
+2020-02-13,Domain C2,ms-home-store.com,
+2020-02-13,IP C2,92.38.184.121,
+2020-02-12,URL,http://de.dl.fileshare-cdns.com,
+2020-02-12,URL,http://en.dl.fileshare-cdns.com,
+2020-02-12,URL,http://fr.dl.fileshare-cdns.com,
+2020-02-12,Domain Request,de.dl.fileshare-cdns.com,
+2020-02-12,Domain Request,en.dl.fileshare-cdns.com,
+2020-02-12,Domain Request,fr.dl.fileshare-cdns.com,
+2020-02-12,IP Request,185.176.222.12,
+2020-02-07,SHA256,d84bf8370e8f75de9cc8de410d4c4fd0256ab31542c63b797684e3eb8df185d0,Rechnung-m.EXText V7.2.xls
+2020-02-07,SHA256,0494fddc0ba0be384d29ee5ebe4a75c21975accded0fa90cefc9e7b3f28705a7,20report_.dll	
+2020-02-07,Domain C2,ms-break.com,
+2020-02-07,IP C2,92.223.105.107,
+2020-02-07,SHA256,2236a07e8fa4c10ec8ca79ddeaeaa80b0ee269418211963e1610ee83fb644815,Muiui.dll
+2020-02-07,SHA256,bdc6fae3f17e539b3ef30efae8218821ccd0d10cbc29738bb9ff80a5906ff4ea,lccfprv.dll
+2020-02-07,SHA256,84f95f5cbc4a2a68dc7a7695267dd64e90aa5184d5c97100400a5b05edc33c70,hoyavcf.dll
+2020-02-07,Domain C2,auxin-box.com,
+2020-02-07,IP C2,212.83.46.170,
+2020-02-06,SHA256,c7e5f212a79f71f1e82f123d578c5c185260e8e785fb59c5ba95e6ba59acec2b,20200205_164407.xls
+2020-02-06,SHA256,ce326c9eb5f386a5c4765b353b3e81f293622862c9491d64b9db78acd88e9bc3,202002report_.dll	
+2020-02-06,Domain C2,mainten-ferrum.com,
+2020-02-06,IP C2,212.80.217.215,
