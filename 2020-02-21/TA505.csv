@@ -1,0 +1,10 @@
+Date,Type,Indicator,Name
+2020-02-21,URL,https://dl-0074957.owncloud-cdn.com/download.php,
+2020-02-21,SHA256,f94ab13cc2279035e83c26427093967c77ebc9c890eb2cf01a4f71636a27a6ad,49301143.XLS
+2020-02-21,SHA256,23022fb252ce39c3e616abb4289f29fc6f920da420526a4f588000817bf013f9,49301143.XLS
+2020-02-21,SHA256,bd69331d7a89cc8b9d2b0ac00dd212758386514c466851504289112e2fb4cf98,stadr_.dll		
+2020-02-21,Domain Request,dl-0074957.owncloud-cdn.com,
+2020-02-21,Domain Request,dl-0086534.owncloud-cdn.com,
+2020-02-21,Domain C2,microsoft-ware.com,
+2020-02-21,IP Request,195.123.240.160,	
+2020-02-21,IP C2,45.66.250.112,
