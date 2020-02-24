@@ -1,4 +1,11 @@
 Date,Type,Indicator,Name
+2020-02-21,SHA256,85267e52016b6124e4e42f8b52e68475174c8a2bdf0bc0b501e058e2d388a819,Інформаційний запит.doc
+2020-02-21,SHA256,946405e2f26e1cc0bd22bc7e12d403da939f02e9c4d8ddd012f049cf4bf1fda9,fbgAq.dot
+2020-02-21,URL,http://bbtt.site/fbgAq.dot,
+2020-02-21,Domain Request,bbtt.site,
+2020-02-21,IP Request,141.8.194.74,
+2020-02-21,Domain C2,himym.site,
+2020-02-21,IP C2,176.57.215.115,
 2020-02-19,SHA256,5f3625d52ef0d8880038525d8239c91fc5b9f844d16a22e11b37c60b701c10de,SEA BREEZE 2020 MPC Minutes.docx
 2020-02-19,Domain Requested,karpa.bounceme.net,
 2020-02-19,URL Requested,http://karpa.bounceme.net/piars.dot,
