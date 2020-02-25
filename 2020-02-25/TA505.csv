@@ -1,0 +1,19 @@
+Date,Type,Indicator,Name
+2020-02-25,SHA256,8de1a29a04c1484dc4e47eed82acdb85924ea95fb645bf04bc6d4c1390b134ec,P278874_250220.xls
+2020-02-25,SHA256,341189f31b39ab16aa7454d683c46b5e3f2a8b693b842fcb0d129502d8e5fe5b,stadr_.dll
+2020-02-25,Domain Request,mays-ltd.com,
+2020-02-25,IP Request,94.130.99.231,
+2020-02-25,URL,https://cdn-server.int-download.com/download.php,
+2020-02-25,SHA256,1dc986a03adc09930b4205a170dd84fd7c0cb2f7f3855fb307982e230696f0c0,download.xls
+2020-02-25,URL,https://app-0947.att-download.com/download.php,
+2020-02-25,Domain Request,app-0947.att-download.com,
+2020-02-25,URL,https://app-0029.att-download.com/download.php,
+2020-02-25,Domain Request,app-0029.att-download.com,
+2020-02-25,Domain Request,att-download.com,
+2020-02-25,IP Request,185.14.30.60,
+2020-02-24,Domain Request,cdn-007538.share-clouds.com/download.php,
+2020-02-24,Domain Request,cdn-004734.share-clouds.com/download.php,
+2020-02-24,URL,cdn-007538.share-clouds.com,
+2020-02-24,URL,cdn-004734.share-clouds.com,
+2020-02-24,Domain Request,share-clouds.com,
+2020-02-24,IP Request,107.160.141.35,
