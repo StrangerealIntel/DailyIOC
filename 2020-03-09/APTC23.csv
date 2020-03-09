@@ -1,0 +1,30 @@
+Date,Type,Indicator,Name
+2020-03-09,SHA256,707e27d94b0d37dc55d7ca12d833ebaec80b50decb218a2eb79565561a807fe6,Meeting Agenda_pdf.exe
+2020-03-09,SHA256,b33f22b967a5be0e886d479d47d6c9d35c6639d2ba2e14ffe42e7d2e5b11ad80,Employee-entitlements-2020.doc
+2020-03-09,SHA256,4be7b1c2d862348ee00bcd36d7a6543f1ebb7d81f9c48f5dd05e19d6ccdfaeb5,Congratulations_Jan-7_78348966_pdf.exe
+2020-03-09,MD5,09bc9765f2ed702514f7b14bcf23a79c,7347678363764.exe
+2020-03-09,SHA256,d08e7464fa8650e669012056548383fbadcd29a093a28eb7d0c2ba4e9036eb07,Define the Internet in government institutions_pdf.exe
+2020-03-09,SHA256,80fb33854bf54ceac731aed91c677d8fb933d1593eb95447b06bd9b80f562ed2,integratedoffice.exe
+2020-03-09,SHA256,050a45680d5f344034be13d4fc3a7e389ceb096bd01c36c680d8e7a75d3dbae2,final_meeting_9659836_299283789235_rar.exe
+2020-03-09,SHA256,00bc6fcfa82a693db4d7c1c9d5f4c3d0bfbbd0806e122f1fbded034eb9a67b10,Scholarships in Serbia 2019-2020_pdf.exe
+2020-03-09,SHA256,4a6d1b686873158a1eb088a2756daf2882bef4f5ffc7af370859b6f87c08840f,1.doc 
+2020-03-09,SHA256,0de10ec9ec327818002281b4cdd399d6cf330146d47ac00cf47b571a6f0a4eaa,Directory of Government Services_pdf.exe
+2020-03-09,SHA256,23aa2347bf83127d40e05742d7c521245e51886f38b285be7227ddb96d765337,Internet in government_984747457_489376.exe
+2020-03-09,SHA256,83e0db0fa3feaf911a18c1e2076cc40ba17a185e61623a9759991deeca551d8b,artisan-video-5625572889047205-9356297846-mp4.exe
+2020-03-09,SHA256,094e318d14493a9f56d56b44b30fd396af8b296119ff5b82aca01db9af83fd48,entelaqa_hamas_32_1412_847403867_rar.exe
+2020-03-09,SHA256,b42d3deab6932e04d6a3fb059348e608f68464a6cdc1440518c1c5e66f937694,asala-panet-il-music-live-892578923756-mp3.exe
+2020-03-09,SHA256,284a0c5cc0efe78f18c7b9b6dbe7be1d93da8f556b432f03d5464a34992dbd01,Brochure-Jerusalem_26082019_pdf.exe
+2020-03-09,URL,http://linda-callaghan.icu/Minkowski/brown,
+2020-03-09,URL,http://linda-callaghan.icu/Minkowski/microsoft/utilities,
+2020-03-09,URL,http://nicoledotson.icu/debby/weatherford/yortysnr,
+2020-03-09,URL,http://nicoledotson.icu/debby/weatherford/Zavantazhyty,
+2020-03-09,URL,http://nicoledotson.icu/debby/weatherford/Ekspertyza,
+2020-03-09,URL,http://nicoledotson.icu/debby/weatherford/Vydalyty,
+2020-03-09,URL,http://nicoledotson.icu/debby/weatherford/pidnimit,
+2020-03-09,Domain C2,linda-callaghan.icu,
+2020-03-09,Domain C2,nicoledotson.icu,
+2020-03-09,Artifact,"%TEMP%\*.pdf(*.mp3,*.mp4,*.rar,*.doc)",
+2020-03-09,Artifact,%ProgramData%\SyncDownOptzHostProc.exe,
+2020-03-09,Artifact,%ProgramData%\Microsoft\Windows\Start Menu\Programs\Startup\SyncDownOptzHostProc.lnk,
+2020-03-09,Artifact,%ProgramData%\GUID.bin,
+2020-03-09,Artifact,%ProgramData%\IntegratedOffice.exe,
