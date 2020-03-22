@@ -36,6 +36,7 @@ Date,Type,Indicator,Name
 2020-02-18,Domain C2,http://sabdja.3utilities.com,
 2020-02-18,SHA256,fd8de97c7be6be03bfbe398058998994348407b29af5624855d98c24e91e077b,dod_91301035.docx
 2020-02-18,SHA256,d2f336055e8cc8f4556f3c405ac7957f74d89d2d59f944859a0a89fcf4b77bef,emails.dot
+2020-02-18,SHA256,5967f259e30378e787a932548775a92498de21d1da1eb520c367fc1d3e4fcf08,piars.dot
 2020-02-15,Domain C2,error-office.myftp.biz,
 2020-02-15,Domain C2,error-word.myftp.biz,
 2020-02-15,IP C2,141.8.194.74,
