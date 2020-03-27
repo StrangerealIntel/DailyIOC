@@ -1,0 +1,237 @@
+[
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "eb5dd8a36504366702dd33fff4f0cdebf7935f0b8ba518d41cda53090c5c0040",
+        "Description":  "Doc-677734796718.vbs"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "aa4d510f35a686b54ce2a26ae399ef7e9dccc1846b561fd741cf2469b6a77fb4",
+        "Description":  "ftxqa.dll"
+    },
+    {
+        "Type":  "Path",
+        "Indicator":  "C:\\ProgramData\\ftxqa.dll",
+        "Description":  "Path loader"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "219.94.242.134",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "107.161.30.122",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "185.25.149.178",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "185.234.52.181",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "00efa04b2c8cbd806300dc2aa9a64e9bb77c2cce4cb6cd4d8f457df70e361b7a",
+        "Description":  "inv_754868.doc"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "d3d026f833f38db4e9c43dd3b7371c3826e39d16ed6c0dfd69301584c6ac4783",
+        "Description":  "Caff54e1.exe"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "dd1b008e9cd05d6ba977fda503023a0261399905acb672f2a368a8f0fab164d3",
+        "Description":  "fprl.exe"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "e9d7e375fd74ad7e69ad0fd7c7414c717cf8f9950b9481f22382ca188344043b",
+        "Description":  "fprl.exe"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "3c6054b564bc7c113d19d7604baafcd4b23824ecb34f8575e05458b9b1e46063",
+        "Description":  "fprl.exe"
+    },
+    {
+        "Type":  "PDB",
+        "Indicator":  "kgvb|fptrn.pdb",
+        "Description":  "PDB Path"
+    },
+    {
+        "Type":  "Path",
+        "Indicator":  "C:\\DecemberLogs\\Caff54e1.exe",
+        "Description":  "Path loader"
+    },
+    {
+        "Type":  "Domain",
+        "Indicator":  "owenti.com",
+        "Description":  "Domain requested"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "8.209.74.196",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "URL",
+        "Indicator":  "http://owenti.com/fprl.bin",
+        "Description":  "URL delivery"
+    },
+    {
+        "Type":  "Mutex",
+        "Indicator":  "DBWinMutex",
+        "Description":  "Mutex process"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "20537e030016798067a86b3c5294c36339cd43aab90b04ed4d3e9e3c8d342b8c",
+        "Description":  "Klass#591232728993.vbs"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "aa4d510f35a686b54ce2a26ae399ef7e9dccc1846b561fd741cf2469b6a77fb4",
+        "Description":  "WMhYsrvAW.dll"
+    },
+    {
+        "Type":  "Path",
+        "Indicator":  "C:\\ProgramData\\WMhYsrvAW.dll",
+        "Description":  "Path loader"
+    },
+    {
+        "Type":  "PDB",
+        "Indicator":  "c:\\few\\should\\begin\\among\\be\\Once\\Kind\\Noticeteeth.pdb",
+        "Description":  "PDB Path"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "185.234.52.181",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "URL",
+        "Indicator":  "https://185.234.52.181/",
+        "Description":  "URL Requested"
+    },
+    {
+        "Type":  "URL",
+        "Indicator":  "http://saitepy.com/glps.exe",
+        "Description":  "URL delivery"
+    },
+    {
+        "Type":  "Domain",
+        "Indicator":  "saitepy.com",
+        "Description":  "Domain requested"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "8.208.9.106",
+        "Description":  "IP delivery"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "107.161.30.122",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "185.234.52.166",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "185.25.149.178",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "PDB",
+        "Indicator":  "Bpod|bpRG.pdb",
+        "Description":  "PDB Path"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "3d0f043627dea5de72eae3fd54dd228dcc4320e8802200dbf21bcbe1cce0bf4a",
+        "Description":  "opxe.exe"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "cb30247e8a3e90858a3c74f4bc67cec5a1a2e860eb10aff60df2821750e9ee68",
+        "Description":  "inv_757884.xls"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "f4c01e26eb88b72d38be3d6331fafe03b1ae53fdbff57d610173ed797fa26e73",
+        "Description":  "inv_764672.xls"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "21647867c1caff9f38834da8d9d862eabb18c4f2dce51940d37818bfdf734fe2",
+        "Description":  "Java Access Bridge for Windows.exe"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "de598f525584d8048e1549c704653946cf121a1886c7e29d783a0aa78d2d654f",
+        "Description":  "de598f525584d8048e1549c704653946cf121a1886c7e29d783a0aa78d2d654f.xls"
+    },
+    {
+        "Type":  "Domain",
+        "Indicator":  "urefere.org",
+        "Description":  "Domain requested"
+    },
+    {
+        "Type":  "URL",
+        "Indicator":  "http://urefere.org/opxe.exe",
+        "Description":  "URL delivery"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "47.254.177.197",
+        "Description":  "IP delivery"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "185.234.52.170",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "107.152.33.215",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "199.101.86.6",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "188.165.247.187",
+        "Description":  "IP C2"
+    },
+    {
+        "Type":  "Mutex",
+        "Indicator":  "IESQMMUTEX_0_208",
+        "Description":  "Mutex process"
+    },
+    {
+        "Type":  "SHA-256",
+        "Indicator":  "ecddf1693882dbbea7e7bc30d183ec8b76688395ce21461bd6736335c45c7e19",
+        "Description":  "ecddf1693882dbbea7e7bc30d183ec8b76688395ce21461bd6736335c45c7e19.doc"
+    },
+    {
+        "Type":  "Domain",
+        "Indicator":  "artofwork.live",
+        "Description":  "Domain requested"
+    },
+    {
+        "Type":  "IP",
+        "Indicator":  "198.54.120.132",
+        "Description":  "IP delivery"
+    }
+]
