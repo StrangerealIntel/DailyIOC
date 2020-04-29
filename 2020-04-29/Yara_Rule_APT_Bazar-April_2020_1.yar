@@ -24,5 +24,5 @@ rule Backdoor_APT_Nazar_April_2020_1 {
       $s14 = "\\music.mp3" fullword ascii // name of audio file capture
       $s15 = "\\z.png" fullword ascii // name of screenshot file 
    condition:
-     12 of them and filesize < 120KB 
+     12 of them and filesize > 120KB 
 }
