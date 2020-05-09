@@ -1,0 +1,25 @@
+Date,Type,Indicator,Description
+2020-05-04 12:38:58,SHA-256,99f2aaf753d0f0b9d9b3a3d593e8dbf724ada3fb3dad43dc52687ede11bcad04,DHL PB8002742088-Contact form.pdf.exe
+2020-05-04 12:38:58,URL,http://radiomeff.mk/panel/upload.php,URL C2
+2020-05-04 12:38:58,IP,94.155.47.65,IP C2
+2020-05-04 12:38:58,Domain,radiomeff.mk,Domain C2
+2020-05-04 12:38:58,Mutex,CPFATE_1220_v4.0.30319,Mutex created
+2020-05-04 12:38:58,Mutex,CPFATE_2904_v4.0.30319,Mutex created
+2020-05-04 12:38:58,Mutex,CPFATE_3036_v4.0.30319,Mutex created
+2020-05-04 12:38:58,Mutex,CPFATE_2348_v4.0.30319,Mutex created
+2020-05-04 12:38:58,Mutex,RasPbFile,Mutex open
+2020-05-04 12:38:58,Module,sqlite.interop.dll,Runtime modules
+2020-05-05 02:04:19,SHA-256,dff13e3113afe89e2330eca1060a287b4ecd648c0f76f7ff31b9f1ad2275086,DHL PB8002742088-Contact form.pdf.zip
+2020-05-05 04:43:01,SHA-256,812efd5114e9e1d9ae0898435aa593322a4ef9a39ddd1befe6fc9382ed1cfc0f,TnGfQRqn.exe	
+2020-05-05 04:43:01,IP,54.225.71.235,IP C2	
+2020-05-05 04:43:01,Domain,mail.gcco.dz,Domain C2
+2020-05-05 04:43:01,Mutex,RasPbFile,Mutex open
+2020-05-05 04:43:01,Module,sqlite.interop.dll,Runtime module
+2020-05-05 11:00:07,SHA-256,c4915e0bad118912792555923bded5335a283aa6b0a8e78a10ca627679929c13,Proforma Invoice and Purchase Order.exe
+2020-05-05 11:00:07,Module,sqlite.interop.dll,Runtime modules
+2020-05-05 11:00:07,Mutex,CPFATE_1764_v4.0.30319,Mutex created
+2020-05-05 11:00:07,Mutex,CPFATE_2184_v4.0.30319,Mutex created
+2020-05-05 11:00:07,Mutex,CPFATE_784_v4.0.30319,Mutex created
+2020-05-05 11:00:07,Mutex,CPFATE_2724_v4.0.30319,Mutex created
+2020-05-05 11:00:07,Mutex,RasPbFile,Mutex open
+2020-05-05 11:00:07,Module,sqlite.interop.dll,Runtime module
