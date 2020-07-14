@@ -8,6 +8,7 @@ Date,Type,Indicator,Description
 2020-07-12,IP,"167.88.180.32",IP C2
 2020-07-12,Domain,"www.systeminfor.com",Domain C2
 2020-07-12,SHA256,8a07c265a20279d4b60da2cc26f2bb041730c90c6d3eca64a8dd9f4a032d85d3,acrord32.dll
+2020-07-12,SHA256,2bc7ed201c7af3e57a20eec4099e242631734fa37b50fa4bce194751f497f7c8,"DOC-2020-05-15T092742.441.pdf"
 2020-07-12,URL,"http://167.88.180.198/dis.dat",URL delivery
 2020-07-12,IP,"167.88.180.198",IP delivery
 2020-05-25,SHA256,f6e5a3a32fb3aaf3f2c56ee482998b09a6ced0a60c38088e7153f3ca247ab1cc,wwlib.dll
