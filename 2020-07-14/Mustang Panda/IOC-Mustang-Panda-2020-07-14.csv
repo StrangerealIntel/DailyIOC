@@ -1,0 +1,17 @@
+Date,Type,Indicator,Description
+2020-07-12,SHA256,4cef5835072bb0290a05f9c5281d4a614733f480ba7f1904ae91325a10a15a04,wwlib.dll
+2020-07-12,SHA256,b6cb4f1c94cb2165a654e6655e099fa53c9e42d78847faf44bdbe2aadd128129,"QUM, IL VATICANO DELL'ISLAM.docx"
+2020-07-12,SHA256,7d85ebd460df8710d0f60278014654009be39945a820755e1fbd59030c14f4c7,hex.dll
+2020-07-12,SHA256,4c8405e1c6531bcb95e863d0165a589ea31f1e623c00bcfd02fbf4f434c2da79,adobeupdate.dat
+2020-07-12,URL,"http://103.85.24.190/qum.dat",URL delivery
+2020-07-12,IP,"103.85.24.190",IP delivery
+2020-07-12,IP,"167.88.180.32",IP C2
+2020-07-12,Domain,"www.systeminfor.com",Domain C2
+2020-05-25,SHA256,f6e5a3a32fb3aaf3f2c56ee482998b09a6ced0a60c38088e7153f3ca247ab1cc,wwlib.dll
+2020-05-25,SHA256,d8829383daa887e05292da9a2b1fabbe5ff89b71f5205e32614bd54b92c3f238,"About China's plan for Hong Kong security law.docx"
+2020-05-25,SHA256,bc6c2fda18f8ee36930b469f6500e28096eb6795e5fd17c44273c67bc9fa6a6d,hex.dll
+2020-05-25,SHA256,01c1fd0e5b8b7bbed62bc8a6f7c9ceff1725d4ff6ee86fa813bf6e70b079812f,adobeupdate.dat
+2020-05-25,URL,"http://167.88.180.198/hk.dat",URL delivery
+2020-05-25,IP,"167.88.180.198",IP delivery
+2020-05-25,IP,"103.85.24.190",IP C2
+2020-05-25,Domain,"www.systeminfor.com",Domain C2
