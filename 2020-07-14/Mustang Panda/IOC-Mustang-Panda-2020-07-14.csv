@@ -7,6 +7,9 @@ Date,Type,Indicator,Description
 2020-07-12,IP,"103.85.24.190",IP delivery
 2020-07-12,IP,"167.88.180.32",IP C2
 2020-07-12,Domain,"www.systeminfor.com",Domain C2
+2020-07-12,SHA256,8a07c265a20279d4b60da2cc26f2bb041730c90c6d3eca64a8dd9f4a032d85d3,acrord32.dll
+2020-07-12,URL,"http://167.88.180.198/dis.dat",URL delivery
+2020-07-12,IP,"167.88.180.198",IP delivery
 2020-05-25,SHA256,f6e5a3a32fb3aaf3f2c56ee482998b09a6ced0a60c38088e7153f3ca247ab1cc,wwlib.dll
 2020-05-25,SHA256,d8829383daa887e05292da9a2b1fabbe5ff89b71f5205e32614bd54b92c3f238,"About China's plan for Hong Kong security law.docx"
 2020-05-25,SHA256,bc6c2fda18f8ee36930b469f6500e28096eb6795e5fd17c44273c67bc9fa6a6d,hex.dll
