@@ -30,5 +30,5 @@ rule Mal_ATM_Loup_Aug_2020_1 {
       $s11 = "WFSClose" fullword ascii
       $s12 = "WFSStartUp" fullword ascii
    condition:
-      uint16(0) == 0x5a4d and filesize < 100KB and ( pe.imphash() == "190fc01f66c40478aa91be89a98c57e9" and ( 1 of ($pdb*) and 2 of ($dbg*) and 2 of ($info*) and 9 of ($s*)) )
+      uint16(0) == 0x5a4d and filesize < 20KB and ( pe.imphash() == "190fc01f66c40478aa91be89a98c57e9" and ( 1 of ($pdb*) and 2 of ($dbg*) and 2 of ($info*) and 9 of ($s*)) )
 }
