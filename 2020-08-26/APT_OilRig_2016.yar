@@ -5,7 +5,7 @@ rule APT_OilRig_VBS_2016_1 {
    meta:
       description = "Detect VBS script in base 64 used by OilRig (2016)"
       author = "Arkbird_SOLG"
-      reference = "Internal Research"
+      reference = "https://twitter.com/Arkbird_SOLG/status/1298758788028264450"
       date = "2020-08-26"
       hash1 = "1edbb818ea75919bb70bd2496e789e89d26c94cdf65ab61ebb5f1403d45d323c"
       hash2 = "1191d5c1dd7f6ac38b8d72bee37415b3ff1c28a8f907971443ac3a36906e8bf5"
@@ -26,7 +26,7 @@ rule APT_OilRig_PSH_Helminth_2016_1 {
    meta:
       description = "Detect Powershell script Helminth in base 64 used by OilRig (2016)"
       author = "Arkbird_SOLG"
-      reference = "Internal Research"
+      reference = "https://twitter.com/Arkbird_SOLG/status/1298758788028264450"
       date = "2020-08-26"
       hash1 = "1edbb818ea75919bb70bd2496e789e89d26c94cdf65ab61ebb5f1403d45d323c"
       hash2 = "1191d5c1dd7f6ac38b8d72bee37415b3ff1c28a8f907971443ac3a36906e8bf5"
