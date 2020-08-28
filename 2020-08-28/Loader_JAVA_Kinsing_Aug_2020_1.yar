@@ -46,8 +46,7 @@ rule Loader_JAVA_Kinsing_Aug_2020_Variant_B_1.yar {
       $Com1 = "chmod +x " fullword ascii
       $Com2 = { 53 4b 4c 01 00 02 6c 66 } // SKL\x01\x00\x02lf
       $s1 = "kinsing" fullword ascii
-      $s2 =  { 6f 73 2e 6e 61 6d 65 } // os.name
-      $s3 = "getAbsolutePath" fullword ascii
+      $s2 = "getAbsolutePath" fullword ascii
    condition:
         filesize < 1KB and 3 of ($ClassCode*) and 1 of ($Com*) and 2 of ($s*) 
 }
