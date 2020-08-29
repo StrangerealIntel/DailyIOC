@@ -1,5 +1,5 @@
 
-rule Loader_JAVA_Kinsing_Aug_2020_Variant_A_1.yar {
+rule Loader_JAVA_Kinsing_Aug_2020_Variant_A_1 {
    meta:
       description = "Detect Kinsing Variant A"
       author = "Arkbird_SOLG"
@@ -29,7 +29,7 @@ rule Loader_JAVA_Kinsing_Aug_2020_Variant_A_1.yar {
         filesize < 1KB and 4 of ($ClassCode*) and 3 of ($Com*) and 3 of ($s*) 
 }
 
-rule Loader_JAVA_Kinsing_Aug_2020_Variant_B_1.yar {
+rule Loader_JAVA_Kinsing_Aug_2020_Variant_B_1 {
    meta:
       description = "Detect Kinsing Variant B"
       author = "Arkbird_SOLG"
