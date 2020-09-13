@@ -2,7 +2,7 @@ Date,Hash,filename,Rule
 "2020-09-13 14:40:56","903bd1082158b6ee2fafaabe103cbeec654d99ef1da3f0f5c41bc13a22673bea","dttcodexgigas.6bb0398a9e423604d51bee7564143a76d6f233a7","apt_mal_ru_turla_jun20_1"
 "2020-09-13 14:40:53","b34cecca006186d2c74313cca2801c5960f8e7e035540de1d3cda6e8bbe2bc2d","dttcodexgigas.57c50550cebcd2c6974f2681f3ada72f5fa2a7c2","apt_mal_ru_turla_jun20_1"
 "2020-09-13 14:40:52","e09c46e0dd327e0945b7510ee609744b4086b1acd9a2201a2408b2e2a015c2c6","dttcodexgigas.015a7459999294fa40fe09ecb5387ca96aa14521","apt_mal_ru_turla_jun20_1"
-"2020-09-12 16:57:33","980c0c9d10a55e3b4efa06da539d896e6a759400152c00149bfd860107ce2491","PatchUi.exe","aptmalware #apt_turla_dllinject_tool"
+"2020-09-12 16:57:33","980c0c9d10a55e3b4efa06da539d896e6a759400152c00149bfd860107ce2491","PatchUi.exe","apt_turla_dllinject_tool"
 "2020-09-11 07:50:01","e33580ae3df9d27d7cfb7b8f518a2704e55c92dd74cbbab8ef58ddfd36524cc8","ADSchemeIntegrity.exe","apt_turla_Variant"
 "2020-09-10 22:42:12","4ad770af0665898f4c4a998aa78ed308690e6633fccff6f54ae779db996527b4","58lala.exe","apt_turla_kopiluwak_js_jul19_1"
 "2020-09-09 16:18:40","411dc333cec3e68140b35bc517668f8b40a69bebe0180a573b380ddb68e29495","Password Protect Folder and Lock File 和谐补丁.exe","apt_turla_dllinject_tool"
