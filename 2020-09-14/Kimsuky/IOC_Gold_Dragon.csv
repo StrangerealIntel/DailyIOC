@@ -1,0 +1,19 @@
+Date,Type,Indicator,Description
+2020-09-02,URL,"http://pingguo2.atwebpages.com/home/jpg/post.php","URL Requested"
+2020-09-02,URL,"http://pingguo2.atwebpages.com/home/jpg/download.php?filename=button01","URL Requested"
+2020-09-02,Domain,"pingguo2.atwebpages.com","Domain C2"
+2020-09-02,IP,"185.176.43.98","IP C2"
+2020-09-02,SHA256,bfb8d13fcb64e3d09de2850b47d64492dbfc7bba58766546c1511f1fa59a64c9,bfb8d13fcb64e3d09de2850b47d64492dbfc7bba58766546c1511f1fa59a64c9.exe
+2020-08-30,SHA256,4ff2a67b094bcc56df1aec016191465be4e7de348360fd307d1929dc9cbab39f,4ff2a67b094bcc56df1aec016191465be4e7de348360fd307d1929dc9cbab39f.exe
+2020-08-30,SHA256,8f2cbc93b7cd5cdc54e1670105c3da682bae0b70bc6bc4b0c0c18ab5c40be9c4,"8f2cbc93b7cd5cdc54e1670105c3da682bae0b70bc6bc4b0c0c18ab5c40be9c4.exe"
+2020-08-30,SHA256,97935fb0b5545a44e136ee07df38e9ad4f151c81f5753de4b59a92265ac14448,97935fb0b5545a44e136ee07df38e9ad4f151c81f5753de4b59a92265ac14448.exe
+2020-08-30,SHA256,b1e28bc8720303326946ec69d8ad6c90b572e177d562bbe769abaf1aad3d9e1a,b1e28bc8720303326946ec69d8ad6c90b572e177d562bbe769abaf1aad3d9e1a.exe
+2020-08-30,Domain,"portable.epizy.com","Domain C2"
+2020-08-30,URL,"http://portable.epizy.com/img/png/download.php?filename=images01","URL Requested"
+2020-08-30,URL,"http://portable.epizy.com/img/png/post.php","URL Requested"
+2020-08-30,IP,"185.27.134.213","IP C2"
+2020-07-24,SHA256,a7a86cbf520c0ca37e2f8e37584fcd9c68e79614fd8352d10a7bb223c3a3a39b,"[남북연합 구상과 추진방안] 워크숍 계획.hwp .exe"
+2020-07-24,URL,http://foxonline123.atwebpages.com/home/jpg/post.php,"URL Requested"
+2020-07-24,URL,http://foxonline123.atwebpages.com/home/jpg/download.php?filename=flower03,"URL Requested"
+2020-07-24,Domain,foxonline123.atwebpages.com,"Domain C2"
+2020-07-24,IP,"185.176.43.80","IP C2"
