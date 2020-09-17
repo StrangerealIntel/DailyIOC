@@ -1,0 +1,16 @@
+Date,Type,Indicator,Description
+2020-09-17,SHA256,727bfcd077ceee7c48461eef25e134adf9d623de3ed2c99f2507373a4645311b,doc20200916100024.js
+2020-09-17,SHA256,31f44233784496a5a6c66192d9bcbbec3e2d1a0ab473162f955c352cfd6e6c0a,Contrato- 2020-09-08T085008.442 - Alb. 8120173035 Klantnummer 106 - doc04361120200812113759-SKBMT-08-09-2020-img00127.wsf
+2020-09-17,SHA256,77a8054888454def0e4c13a8b864560a918bb13a0cd80c5c73f5fe9ddbc45bef,ManagmentClass.dll 
+2020-09-17,SHA256,badf7bd4314b27b95f00d859adfcff20776d6e1e58132f5b7abf3b9f81c53223,ManagmentClass.dll
+2020-09-17,SHA256,ed42640da83dda3bf2ed08c414bfd256a82c9a8ef1894a59e3c421b254c59d4d,Mass.bin
+2020-09-17,SHA256,d4394db20c43c94c904f5f7eca3889c2eba21731f27793b34a5cf857df35e185,F12.jpg
+2020-09-17,SHA256,150cc76b6c191e8429433879c9827363d8eefbf8b7d8efa9a75548b799de06cc,A11.jpg
+2020-09-17,URL,"http://gsbc.gr/F12.jpg","URL Delivery"
+2020-09-17,URL,"http://destrupack.com/A11.jpg","URL Delivery"
+2020-09-17,Domain,"gsbc.gr","Domain Delivery"
+2020-09-17,Domain,"destrupack.com","Domain Delivery"
+2020-09-17,IP,5.189.152.112,"IP Delivery"
+2020-09-17,IP,"185.250.200.160","IP Delivery"
+2020-09-17,Domain,"nankasa.com.ar","Domain C2"
+2020-09-17,IP,192.185.155.49,"IP C2"
