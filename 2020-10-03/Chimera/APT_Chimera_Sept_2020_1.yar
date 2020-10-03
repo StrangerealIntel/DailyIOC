@@ -5,6 +5,7 @@ rule APT_Chimera_Sept_2020_1 {
       reference = "Internal Research"
       // ref article : https://cycraft.com/download/%5BTLP-White%5D20200415%20Chimera_V4.1.pdf
       date = "2020-10-03"
+      hash1 = "f6d89ff139f4169e8a67332a0fd55b6c9beda0b619b1332ddc07d9a860558bab"
    strings:
       $header = { 4D 5A 41 52 55 48 89 E5 48 83 EC 20 48 83 E4 F0 E8 00 00 00 00 5B 48 81 C3 EB 18 00 00 FF D3 48 81 C3 00 09 03 00 49 89 D8 6A 04 5A FF D0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 E8 } // MZ header
       $s1 = "\\\\%s\\pipe\\%s" fullword ascii
