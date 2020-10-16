@@ -1,4 +1,4 @@
-rule RAN_Crysis_Sep_2020_1 {
+rule Ran_Crysis_Sep_2020_1 {
    meta:
       description = "Detect Crysis ransomware"
       author = "Arkbird_SOLG"
