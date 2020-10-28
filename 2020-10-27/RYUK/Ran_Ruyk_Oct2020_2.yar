@@ -19,9 +19,9 @@ rule Ran_Ruyk_Oct_2020_2 {
       $s6 = "UINi\\cYIqwxAcV^GYCY^EgzUvSZcsRW" fullword ascii
       $s7 = "FrystFsgcteIaui" fullword ascii
       $s8 = "delete[]" fullword ascii
-      $s8 = "Picuovphv Bbsg!Es|rwojrarkkd Stryjfes x4.3" fullword ascii
-      $s9 = "FrystGfuvrozHctj" fullword ascii
-      $s10 = "FrystUfngasfCqovf{v" fullword ascii
+      $s9 = "Picuovphv Bbsg!Es|rwojrarkkd Stryjfes x4.3" fullword ascii
+      $s10 = "FrystGfuvrozHctj" fullword ascii
+      $s11 = "FrystUfngasfCqovf{v" fullword ascii
       $op1 = { 63 62 6d 75 6a 7a 6e 49 4d 54 50 78 75 70 78 59 6f 65 71 4f 57 48 4a 78 57 71 4c 50 55 78 4a 6e 68 4b 71 57 57 6d 49 75 6a 51 64 4f 50 74 70 63 76 61 42 72 75 5a 6a 4d 69 79 59 52 69 58 78 4a 63 6b 51 70 4b 75 47 52 5a 51 42 5a 5a 61 50 69 76 66 77 43 6c 45 5a 67 76 6e 49 6c 54 74 4b 46 4d 68 53 4a 42 4f 64 6a 69 46 44 4d 62 70 78 76 52 5a 69 61 74 69 71 5a 6e 75 67 5a 62 78 72 51 }
       $op2 = { 23 71 59 72 51 6d 58 48 4a 77 65 55 53 76 68 79 4f 62 51 50 6d 44 44 52 44 6e 72 49 53 57 6c 72 56 4a 56 75 68 52 4e 4a 66 6b 50 6e 6b 72 65 68 73 6e 6b 68 54 4e 70 6a 56 7a 7a 64 61 44 6e 62 44 67 5a 54 62 4b 65 63 54 69 35 4f 71 20 64 24 2d }
    condition:
