@@ -1,0 +1,24 @@
+Ransomware : OnyxLocker
+Active Threat : Dev Test (only one sample found)
+Ref : https://twitter.com/Kangxiaopao/status/1328614320016560128
+MD5: 1bf1c4174d6f6f9b33e7bd3be901ff55
+SHA256: 7e3c97d3d274b5f7fedad6e392e6576ac3e5724ddd7e48c58a654b6b95eb40d7 
+Focused extensions :
+pdf,zip,ppt,doc,docx,rtf,jpg,jpeg,png,img,gif,mp3,mp4,mpeg,mov,avi,wmv,txt,html,php,js,css,odt,sqlite3,ink,ods,odp,odm,odc,odb,docm,wps,xls,xlsx,xlsm,xlsb,xlk,ppt,pptx,pptm,mdb,accdb,pst,dwg,dxf,dxg,wpd,wb2,mdf,psd,pdd,eps,ai,indd,cdr,jpe,tmp,log,py,dbf,ps1,dng,3fr,arw,srf,sr2,bay,crw,cr2,dcr,rwl,rw2,pyc,kdc,erf,mef,mrw,nef,nrw,orf,raf,raw,r3d,ptx,css,pef,srw,x3f,der,cer,crt,pem,pfx,p12,p7b,p7c,sqlite,js,rb,xml,wmi,sh,asp,aspx,plist,sql,vbs,litesql,dotx,db3,backup,xlm,rtf,json,lua,tiff,tif,csproj,sln,crt,csv,flv,vlf,rar,7zip,acc,lnk,cs,h,cpp,c,sg,mid,wav,7z,exe,db
+PDB: C:\Users\aguim\Desktop\OnyxLocker-master\OnyxLocker\obj\Debug\OnyxLocker.pdb
+Ransom note: WW91IHNob3VsZCByZXBsYWNlIHRoaXMgbWVzc2FnZSB3aXRoIHRoZSBvbmUgeW91IHdhbnQgeW91ciB1c2VycyB0byBzZWUu (base64 encoded) 
+You should replace this message with the one you want your users to see.
+Algorithm Encryption: 3DES (192 bits)
+Notes : A function for sending the key seems existed but not used (haven't an interface for sending the generated key to the C2)
+
+using System;
+
+namespace OnyxLocker.Interfaces
+{
+	// Token: 0x0200000A RID: 10
+	internal interface ICommunicator
+	{
+		// Token: 0x0600001C RID: 28
+		void SendData(string EncryptionKey);
+	}
+}
