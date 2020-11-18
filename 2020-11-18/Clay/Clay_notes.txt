@@ -1,0 +1,18 @@
+Ransomware : Clay (variant)
+Coded in : CIL (.NET)
+Active Threat : Unknown (lamer user)
+Ref : https://twitter.com/Kangxiaopao/status/1329016835753144320
+MD5: c8c3a98c2916e96f5b8f07aeeb740066
+SHA256: 9aaeb479b6bb61b97d6843d8681229ec1873acd0b488d575d71956c8d1ad1b02
+Focused extensions :
+mid,wma,flv,mkv,mov,avi,asf,mpeg,vob,mpg,wmv,fla,swf,wav,qcow2,vdi,vmdk,vmx,gpg,aes,ARC,PAQ,tar.bz2,tbk,bak,tar,tgz,rar,zip,djv,djvu,svg,bmp,png,gif,raw,cgm,jpeg,jpg,tif,tiff,NEF,psd,cmd,class,jar,java,asp,brd,sch,dch,dip,vbs,asm,pas,cpp,php,ldf,mdf,ibd,MYI,MYD,frm,odb,dbf,mdb,sql,SQLITEDB,SQLITE3,asc,lay6,lay,ms11 (Security copy),sldm,sldx,ppsm,ppsx,ppam,docb,mml,sxm,otg,odg,uop,potx,potm,pptx,pptm,std,sxd,pot,pps,sti,sxi,otp,odp,wks,xltx,xltm,xlsx,xlsm,xlsb,slk,xlw,xlt,xlm,xlc,dif,stc,sxc,ots,ods,hwp,dotm,dotx,docm,docx,DOT,max,xml,txt,CSV,uot,RTF,pdf,XLS,PPT,stw,sxw,ott,odt,DOC,pem,csr,crt,key,wallet.dat
+PDB: C:\Users\aguim\Desktop\Ransomware_visual_items\Rasomware2.0\Rasomware2.0\obj\Debug\Rasomware2.0.pdb
+Ransom note: 
+Whoops... All your documents, videos, pictures, music and others \r\nhave been ENCRYPED!
+Now you need to contact bl4ack#1337 on the discord asking for the decrypt key
+- is there another way for me to recover my files?
+No. only with our key we can recover your files.
+
+Algorithm Encryption: AES ( Size:256 bits/Block: 128 bits) + Salt (1,2,3,4,5,6,7,8)
+Notes : Same Actor that the dev test of OnyxLocker ( pdb pattern), weak level in English (not native language and studied language)
+Bazaar link : https://bazaar.abuse.ch/sample/9aaeb479b6bb61b97d6843d8681229ec1873acd0b488d575d71956c8d1ad1b02/
