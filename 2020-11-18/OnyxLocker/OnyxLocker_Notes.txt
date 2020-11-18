@@ -1,4 +1,5 @@
 Ransomware : OnyxLocker
+Coded in : CIL (.NET)
 Active Threat : Dev Test (only one sample found)
 Ref : https://twitter.com/Kangxiaopao/status/1328614320016560128
 MD5: 1bf1c4174d6f6f9b33e7bd3be901ff55
