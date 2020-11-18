@@ -1,4 +1,4 @@
-Ransomware : Clay (variant)
+Ransomware : Clay (variant that also fork of HiddenTear code)
 Coded in : CIL (.NET)
 Active Threat : Unknown (lamer user)
 Ref : https://twitter.com/Kangxiaopao/status/1329016835753144320
