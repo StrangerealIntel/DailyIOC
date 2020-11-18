@@ -22,3 +22,4 @@ namespace OnyxLocker.Interfaces
 		void SendData(string EncryptionKey);
 	}
 }
+Bazaar link : https://bazaar.abuse.ch/sample/7e3c97d3d274b5f7fedad6e392e6576ac3e5724ddd7e48c58a654b6b95eb40d7/
