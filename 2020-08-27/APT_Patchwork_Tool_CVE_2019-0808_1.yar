@@ -30,5 +30,5 @@ rule APT_Patchwork_Tool_CVE_2019-0808_1 {
       $s16 = "[*] Destroyed spare windows!" fullword ascii
       $s17 = "[!] SetWindowLongA malicious error: 0x%08X" fullword ascii
    condition:
-      uint16(0) == 0x5a4d and filesize < 70KB and ( pe.imphash() == "d4a5e8c255211639195793920eeda70f" and 2 of ($asm*) and 12 of ($s*) )
+      uint16(0) == 0x5a4d and filesize > 70KB and ( pe.imphash() == "d4a5e8c255211639195793920eeda70f" and 2 of ($asm*) and 12 of ($s*) )
 }
