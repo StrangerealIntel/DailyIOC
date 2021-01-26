@@ -14,7 +14,7 @@ rule APT_Turla_ComRAT_Chinch_V4_Jan_2021_1 {
       $com6 = "Default browser path is:" fullword ascii
       $com7 = "Search for browser path." fullword ascii
       $com8 = "Cant retrieve any path." fullword ascii
-      $com8 = "Custom browser path is:" fullword ascii
+      $com9 = "Custom browser path is:" fullword ascii
       // ref to export jump
       $jmp1  = { 2e 64 6c 6c 00 55 4d 45 50 00 56 46 45 50 }
       $jmp2 = { 33 c9 e9 ?? ?? ff ff cc cc cc cc cc cc cc cc cc }
