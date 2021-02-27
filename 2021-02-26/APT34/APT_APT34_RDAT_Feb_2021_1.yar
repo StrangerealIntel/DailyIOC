@@ -1,4 +1,4 @@
-rule APT_APT34_Installer_Feb_2021_1 {
+rule APT_APT34_RDAT_Feb_2021_1 {
    meta:
       description = "Detect Installer from APT34 group"
       author = "Arkbird_SOLG"
