@@ -14,7 +14,7 @@ rule APT_APT38_VSingle_Mar_2021_1 {
         $dbg4 = { 63 00 6d 00 64 00 2e 00 65 00 78 00 65 00 20 00 2f 00 75 00 20 00 2f 00 63 00 20 00 25 00 73 } // cmd.exe /u /c %s
         $dbg5 = { 0d 0a 43 6f 6f 6b 69 65 3a 20 25 73 } // \r\nCookie: %s
         $dbg6 = { 25 73 5f 6d 61 69 6e } // %s_main
-        $dbg7 = { 25 73 5f 66 69 6e }} //  %s_fin
+        $dbg7 = { 25 73 5f 66 69 6e } //  %s_fin
         $dbg8 = "3%3*373<3I3N3[3`3m3r3" fullword ascii //  ref delphi lib
         // parser arguments + entry reflect
         $s1 = { 8b 8d 80 f8 ff ff c7 41 04 01 00 00 00 83 e8 01 0f 84 aa 12 00 00 83 e8 01 0f 84 9a 12 00 00 83 e8 01 0f 84 8a 12 00 00 83 e8 01 0f 84 7a 12 00 }
