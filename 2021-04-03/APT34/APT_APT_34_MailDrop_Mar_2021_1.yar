@@ -1,6 +1,6 @@
-rule APT_APT_34_Karkoff_Mar_2021_1 {
+rule APT_APT_34_MailDrop_Mar_2021_1 {
    meta:
-        description = "Detect Karkoff malware used by APT34"
+        description = "Detect MailDrop malware used by APT34"
         author = "Arkbird_SOLG"
         reference = "Internal Research"
         date = "2021-04-03"
