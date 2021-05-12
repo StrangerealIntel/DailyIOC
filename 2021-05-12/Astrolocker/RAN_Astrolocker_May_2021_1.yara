@@ -4,7 +4,7 @@ rule RAN_Astrolocker_May_2021_1 {
         author = "Arkbird_SOLG" 
         // thanks to @dragan_security for his help
         reference = "Internal Research"
-        date = "2020-05-09"
+        date = "2020-05-12"
         hash1 = "7fe1686f4afb9907f880a5e77bf30bc00fae71980f57ca70b60b7b1716456a2f"
         hash2 = "b26749b17ca691328ba67ee49d4d9997c101966c607ab578afad204459b7bf8f"
         hash3 = "0aa8099c5a65062ba4baec8274e1a0650ff36e757a91312e1755fded50a79d47"
