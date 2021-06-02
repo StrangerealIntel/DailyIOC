@@ -7,7 +7,7 @@ rule MAL_EnvyScout_May_2021_1 {
         hash1 = "279d5ef8f80aba530aaac8afd049fa171704fc703d9cfe337b56639732e8ce11"
         hash2 = "9059c5b46dce8595fcc46e63e4ffbceeed883b7b1c9a2313f7208a7f26a0c186"
         tlp = "White"
-        adversary = "APT29"
+        adversary = "NOBELIUM"
    strings:      
         $s1 = "==typeof window&&window.window===window?window:" fullword ascii
         $s2 = "==typeof self&&self.self===self?self:" fullword ascii
