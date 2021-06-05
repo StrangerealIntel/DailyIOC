@@ -16,5 +16,5 @@ rule MAL_JSSLoader_Jun_2021_1 {
         $s3 = { c7 45 f0 61 00 00 00 c7 45 c8 20 00 00 00 c7 45 cc 88 00 00 00 c7 45 dc 01 00 00 00 8d 45 f0 89 45 d0 33 c0 66 89 45 d4 c7 45 d8 00 00 00 00 c7 45 e0 00 00 00 00 8b 45 08 89 45 e4 8b f4 8d 45 c8 50 ff 15 [3] 00 3b f4 e8 [2] 00 00 89 45 b0 83 7d b0 ff 74 17 8b f4 8d 45 bc 50 8b 4d b0 51 ff 15 [3] 00 3b f4 e8 [2] 00 00 52 8b cd 50 8d 15 2c 13 40 00 e8 [2] 00 00 58 5a 5f 5e 5b 8b 4d fc 33 cd e8 [2] 00 00 81 c4 2c 01 00 00 3b ec e8 [2] 00 00 8b e5 }
         $s4 = { 8b 45 ec 8b 08 81 e1 ff ff 00 00 8b f4 51 8b 55 bc 52 ff 15 [3] 00 3b f4 e8 [2] 00 00 8b 4d f8 89 01 eb 25 8b 45 ec 8b 08 8b 55 08 8d 44 0a 02 8b f4 50 8b 4d bc 51 ff 15 [3] 00 3b f4 e8 [2] 00 00 8b 55 f8 89 02 8b 45 f8 83 c0 04 89 45 f8 8b 45 ec 83 c0 04 89 45 ec eb 8c 8b 45 c8 83 c0 14 89 45 c8 e9 25 ff ff ff 5f 5e 5b 81 c4 08 01 00 00 3b ec e8 [2] 00 00 8b e5 }
      condition:
-        filesize > 100KB and filesize < 900KB and all of ($s*)
+        uint16(0) == 0x5a4d and filesize > 100KB and filesize < 900KB and all of ($s*)
 }
