@@ -3,7 +3,7 @@ rule MAL_Netfilter_May_2021_1 {
         description = "Detect Netfilter rootkit"
         author = "Arkbird_SOLG"
         reference = "https://twitter.com/struppigel/status/1405483373280235520"
-        date = "2020-06-18"
+        date = "2021-06-18"
         hash1 = "63d61549030fcf46ff1dc138122580b4364f0fe99e6b068bc6a3d6903656aff0"
         hash2 = "8249e9c0ac0840a36d9a5b9ff3e217198a2f533159acd4bf3d9b0132cc079870"
         hash3 = "d64f906376f21677d0585e93dae8b36248f94be7091b01fd1d4381916a326afe"
