@@ -3,7 +3,7 @@ rule MAL_Klingon_Jun_2021_1 {
         description = "Detect the Klingon RAT"
         author = "Arkbird_SOLG"
         reference = "https://www.intezer.com/blog/malware-analysis/klingon-rat-holding-on-for-dear-life/"
-        date = "2020-06-19"
+        date = "2021-06-19"
         hash1 = "44237e2de44a533751c0baace09cf83293572ae7c51cb4575e7267be289c6611"
         hash2 = "c98bb0649262277ec9dd16cf27f8b06042ff552535995f2bdd3355d2adeff801"
         hash3 = "e8eea442e148c81f116de31b4fc3d0aa725c5dbbbd840b446a3fb9793d0b9f26"
