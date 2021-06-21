@@ -3,7 +3,7 @@ rule MAL_MailO_Jun_2021_1 {
         description = "Detect the Mach-O malware"
         author = "Arkbird_SOLG"
         reference = "https://labs.sentinelone.com/thundercats-hack-the-fsb-your-taxes-didnt-pay-for-this-op/"
-        date = "2020-06-09"
+        date = "2021-06-09"
         hash1 = "3a77f108e32b34e184f9ade66292cd73abbd297b4829ba63a973a400cc7f3f9f"
         hash2 = "603881f4c80e9910ab22f39717e8b296910bff08cd0f25f78d5bff1ae0dce5d7"
         tlp = "White"
