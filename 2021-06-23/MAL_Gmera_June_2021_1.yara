@@ -1,6 +1,6 @@
 rule MAL_Gmera_June_2021_1 {
    meta:
-        description = "Detect Gmera malware used by Lazarus group"
+        description = "Detect Gmera malware"
         author = "Arkbird_SOLG"
         reference = "https://twitter.com/BushidoToken/status/1407671196322258948"
         date = "2021-06-23"
@@ -8,7 +8,7 @@ rule MAL_Gmera_June_2021_1 {
         hash2 = "880df9db805c3e381fd1f71deb664422d725168088b1083c651525dfce5cb033"
         hash3 = "f7921c6b24ab9ac840dbb414a98a0800859ab8d1e5737d551a7939e177c4e2a6"
         tlp = "White"
-        adversary = "Lazarus"
+        adversary = "-"
    strings:      
         $s1 = "' | base64 -D | sh" fullword ascii
         $s2 = { 22 20 3e 20 2f 64 65 76 2f 6e 75 6c 6c 20 32 3e 26 31 20 3c 2f 64 65 76 2f 6e 75 6c 6c 20 26 29 }
