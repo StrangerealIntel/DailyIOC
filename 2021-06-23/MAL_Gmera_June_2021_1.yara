@@ -3,6 +3,8 @@ rule MAL_Gmera_June_2021_1 {
         description = "Detect Gmera malware"
         author = "Arkbird_SOLG"
         reference = "https://twitter.com/BushidoToken/status/1407671196322258948"
+        // ref add1 -> https://labs.sentinelone.com/detecting-macos-gmera-malware-through-behavioral-inspection/
+        // ref add2 -> https://www.welivesecurity.com/2020/07/16/mac-cryptocurrency-trading-application-rebranded-bundled-malware/
         date = "2021-06-23"
         hash1 = "80e58eb314d0d5e1a50be0c5fca0ca42cdda5e5297d6f7a2590840ac60504be1"
         hash2 = "880df9db805c3e381fd1f71deb664422d725168088b1083c651525dfce5cb033"
