@@ -4,11 +4,9 @@ rule MAL_QueenOfHearts_Jul_2021_1 {
         author = "Arkbird_SOLG"
         reference = "https://twitter.com/ShadowChasing1/status/1413111641504292864"
         date = "2021-07-09"
-        // Build 2020
-        hash1 = "bf0762b9fc3866fa23cf6e76326d3164ff72af1cfc6094ff8f69b8f48f4e211d"
-        // Build  2018
-        hash2 = "f110ebee387c2dfac08beb674a8efec20940bc562c5231e9bb4a90296476c29f"
-        hash3 = "8d4b46cefdfe68f3ad53b53d1d26f60d4361868554f50ccdd7f482e9d0c95ccf"
+        hash1 = "44eb620879e0c3f80ff95fda5b1e301d471b59e47c4002132df646acfc7cc5ba"
+        hash2 = "a63600e5c28a4c1770a53d310ff017abd3cb9c20cb58a85d53df0c06bcae1864"
+        hash3 = "f110ebee387c2dfac08beb674a8efec20940bc562c5231e9bb4a90296476c29f"
         tlp = "White"
         adversary = "IAmTheKing"
    strings:
