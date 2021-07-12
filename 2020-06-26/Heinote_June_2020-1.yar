@@ -1,4 +1,4 @@
-Rule MAL_Heinote_June_2020_1 { 
+rule MAL_Heinote_June_2020_1 {
    meta:
       description = "Detect Hienote malware"
       author = "Arkbird_SOLG"
