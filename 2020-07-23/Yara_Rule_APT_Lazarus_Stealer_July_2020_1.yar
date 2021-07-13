@@ -30,7 +30,7 @@ rule APT_Lazarus_Stealer_Unpacked_July_2020-1 {
       $s19 = "DLL support by Alessandro Iacopetti & Gilles Vollant" fullword ascii /* Reference Copyright Zlib authors */
       $s20 = "Dn64.dll" fullword ascii
    condition:
-      uint16(0) == 0x5a4d and filesize < 1500KB and pe.imphash() == "baa93d47220682c04d92f7797d9224ce" and ( pe.exports("BZ2_bzInit") and pe.exports("BZ2_bzZip") and pe.exports("BZ2_bzZipW") and pe.exports("adler32_z") and pe.exports("crc32_z") and pe.exports("deflateGetDictionary") and 15 of them
+      uint16(0) == 0x5a4d and filesize < 1500KB and pe.imphash() == "baa93d47220682c04d92f7797d9224ce" and pe.exports("BZ2_bzInit") and pe.exports("BZ2_bzZip") and pe.exports("BZ2_bzZipW") and pe.exports("adler32_z") and pe.exports("crc32_z") and pe.exports("deflateGetDictionary") and 15 of them
 }
 
 rule APT_Lazarus_Stealer_Packed_July_2020-1 {
@@ -63,5 +63,4 @@ rule APT_Lazarus_Stealer_Packed_July_2020-1 {
       $s19 = "zlib data compression and ZIP file I/O library" fullword ascii /* Reference Copyright Zlib authors */
       $s20 = "DLL support by Alessandro Iacopetti & Gilles Vollant" fullword ascii /* Reference Copyright Zlib authors */
    condition:
-      uint16(0) == 0x5a4d and filesize < 550KB and ( pe.imphash() == "baa93d47220682c04d92f7797d9224ce" and ( pe.exports("BZ2_bzInit") and pe.exports("BZ2_bzZip") and pe.exports("BZ2_bzZipW") and pe.exports("adler32_z") and pe.exports("crc32_z") and pe.exports("deflateGetDictionary") and 15 of them )
-}
+      uint16(0) == 0x5a4d and filesize < 550KB and pe.imphash() == "baa93d47220682c04d92f7797d9224ce" and pe.exports("BZ2_bzInit") and pe.exports("BZ2_bzZip") and pe.exports("BZ2_bzZipW") and pe.exports("adler32_z") and pe.exports("crc32_z") and pe.exports("deflateGetDictionary") and 15 of them}

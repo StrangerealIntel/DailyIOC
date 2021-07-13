@@ -1,6 +1,6 @@
 import "pe" 
 
-rule APT_Patchwork_Tool_CVE_2019-0808_1 {
+rule APT_Patchwork_Tool_CVE_2019_0808_1 {
    meta:
       description = "Detect CVE 2019-0808 tool used by Patchwork group"
       author = "Arkbird_SOLG"

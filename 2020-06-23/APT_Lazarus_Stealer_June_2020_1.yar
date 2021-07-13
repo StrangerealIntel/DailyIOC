@@ -18,14 +18,14 @@ rule APT_NK_Lazarus_Stealer_ScreenCapture_June_2020_1 {
       $s8 = "ScreenCaptureThread started!" fullword ascii
       $s9 = "ScreenCapture start time set to %llu" fullword ascii
       $s10 = "ScreenCaptureMutex already created! %s\n" fullword ascii
-      $s10 = "Major=%d, Minor=%d, Build=%d, Arch=%d" fullword ascii
-      $s11 = "Can't create file %s, errno = %d, nCreateRetryCount = %d" fullword ascii
-      $s12 = "ExploreDirectory, csDirectoryPath = %s, dwError=%d" fullword ascii
-      $s13 = "[END] ScreenCaptureThread terminated!" fullword ascii 
-      $s14 = { 25 00 2d 00 32 00 30 00 73 00 20 00 20 00 20 00 25 00 31 00 30 00 6c 00 6c 00 75 00 20 00 62 00 79 00 74 00 65 00 73 } /* \t%-20s   %10llu bytes */
-      $s15 = { 57 00 72 00 6f 00 74 00 65 00 20 00 25 00 64 00 20 00 62 00 79 00 74 00 65 00 73 00 20 00 74 00 6f 00 20 00 66 00 69 00 6c 00 65 00 20 00 25 00 73 } /* Wrote %d bytes to file %s */
-      $s16 = "Entered Windows direcotry, skipping..." fullword ascii
-      $s17 = "Found %d entries." fullword ascii
+      $s11 = "Major=%d, Minor=%d, Build=%d, Arch=%d" fullword ascii
+      $s12 = "Can't create file %s, errno = %d, nCreateRetryCount = %d" fullword ascii
+      $s13 = "ExploreDirectory, csDirectoryPath = %s, dwError=%d" fullword ascii
+      $s14 = "[END] ScreenCaptureThread terminated!" fullword ascii
+      $s15 = { 25 00 2d 00 32 00 30 00 73 00 20 00 20 00 20 00 25 00 31 00 30 00 6c 00 6c 00 75 00 20 00 62 00 79 00 74 00 65 00 73 } /* \t%-20s   %10llu bytes */
+      $s16 = { 57 00 72 00 6f 00 74 00 65 00 20 00 25 00 64 00 20 00 62 00 79 00 74 00 65 00 73 00 20 00 74 00 6f 00 20 00 66 00 69 00 6c 00 65 00 20 00 25 00 73 } /* Wrote %d bytes to file %s */
+      $s17 = "Entered Windows direcotry, skipping..." fullword ascii
+      $s18 = "Found %d entries." fullword ascii
    condition:
       uint16(0) == 0x5a4d and filesize < 80KB and 14 of them 
 }
