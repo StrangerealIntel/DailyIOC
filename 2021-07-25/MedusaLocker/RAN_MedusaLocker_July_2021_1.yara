@@ -7,8 +7,8 @@ rule RAN_MedusaLocker_July_2021_1
         reference = "https://twitter.com/r3dbU7z/status/1418433910057353217"
         hash1 = "033b4950a8f249b20eb86ec6f8f2ea0a1567bb164289d1aa7fb0ba51f9bbe46c"
         hash2 = "0abb4a302819cdca6c9f56893ca2b52856b55a0aa68a3cb8bdcd55dcc1fad9ad"
-        hash2 = "c2a0a317d73c96428ab088a8f0636ec4ccace7ca691c84ed66a83a70183f40dc"
-        hash2 = "f5fb7fa5231c18f0951c755c4cb0ec07b0889b5e320f42213cbf6bbbe499ad31"
+        hash3 = "c2a0a317d73c96428ab088a8f0636ec4ccace7ca691c84ed66a83a70183f40dc"
+        hash4 = "f5fb7fa5231c18f0951c755c4cb0ec07b0889b5e320f42213cbf6bbbe499ad31"
         tlp = "white"
         adversary = "RaaS"
     strings:
