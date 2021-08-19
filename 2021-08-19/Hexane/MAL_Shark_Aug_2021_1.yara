@@ -20,5 +20,5 @@ rule MAL_Shark_Aug_2021_1
         $s6 = "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography" fullword wide
         $s7 = { 65 00 63 00 68 00 6f 00 20 00 [2-10] 20 00 7c 00 20 00 64 00 65 00 6c 00 20 00 [2-10] 2e 00 62 00 61 00 74 00 00 0f [2-10] 00 2e 00 62 00 61 00 74 }
    condition:
-      uint16(0) == 0x5A4D and filesize > 15KB and all of ($s*)
+      uint16(0) == 0x5A4D and filesize > 15KB and 6 of ($s*)
 }
