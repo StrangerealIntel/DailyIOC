@@ -6,7 +6,7 @@ rule RAN_Lockfile_Aug_2021_1 {
         date = "2021-08-28"
         hash1 = "3303a19789a73fa70a107f8e35a4ce10bb4f6a69ac041a1947481ed8ae99a11c"
         level = "experimental"
-        adversary = "Lockerfile"
+        adversary = "Lockfile"
    strings:
         $s1 = { 80 32 41 48 8d 52 01 ff c1 81 f9 d1 57 00 00 72 ef 4c 8d 05 78 d4 06 00 33 d2 33 c9 ff 15 06 9a 05 00 48 8b d8 ff 15 0d 9a 05 00 48 8b cb 3d b7 00 00 00 75 14 ff 15 0d 9a 05 00 33 c0 48 81 c4 d0 03 00 00 41 5c 5b 5d c3 4c 89 b4 24 c8 03 00 00 4c 89 bc 24 c0 03 00 00 ff 15 e9 99 05 00 ff }
         $s2 = "winsta0\\default" fullword ascii
