@@ -6,7 +6,7 @@ rule Tool_EFSPotatoe_Aug_2021_1 {
         date = "2021-08-27"
         hash1 = "c372c54b11465688201e2d48ffd5fd5b0ca49360858a70ce8413f5c9e24c8050"
         hash2 = "441cb0576151b2e5b5127be72a5bcdf3577a596f0a4e1f2c6836248fe07eb818"
-        adversary = "Lockerfile"
+        adversary = "Lockfile"
    strings:
         $s1 = { 5c 00 70 00 69 00 70 00 65 00 5c 00 6c 00 73 00 61 00 72 00 70 00 63 }
         $s2 = "ncacn_np" fullword wide
