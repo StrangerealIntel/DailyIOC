@@ -7,7 +7,7 @@ rule RAN_Lockfile_Packed_Aug_2021_1 {
         hash1 = "2a23fac4cfa697cc738d633ec00f3fbe93ba22d2498f14dea08983026fdf128a"
         hash2 = "bf315c9c064b887ee3276e1342d43637d8c0e067260946db45942f39b970d7ce"
         level = "Experimental"
-        adversary = "Lockerfile"
+        adversary = "Lockfile"
    strings:
         $s1 = { 90 03 ?? 40 58 4a bc 3c 64 e4 5d 2e 44 45 45 45 ?? 72 48 8e 45 45 43 45 [6] 08 f6 33 45 [5] 01 e9 e3 }
         $s2 = { 5b 22 48 0f 5b 22 48 0f 5b 22 48 bb c7 d3 48 03 5b 22 48 bb c7 d1 48 97 5b 22 48 bb c7 d0 48 16 5b 22 48 69 34 df 48 0e 5b 22 48 5d 2e 26 49 1d 5b 22 48 5d 2e 21 49 05 5b 22 48 59 2e 27 49 28 5b 22 48 59 2e 21 49 0e 5b 22 48 5d 2e 27 49 58 5b 22 48 06 23 b1 48 02 5b 22 48 0f 5b 23 48 bf 5b 22 48 59 2e 2b 49 0d 5b 22 48 59 2e dd 48 0e 5b 22 48 59 2e 20 49 0e 5b 22 48 52 69 63 68 0f 5b 22 48 }
