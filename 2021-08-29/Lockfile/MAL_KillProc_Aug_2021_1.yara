@@ -5,7 +5,7 @@ rule MAL_KillProc_Aug_2021_1 {
         reference = "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/lockfile-ransomware-new-petitpotam-windows"
         date = "2021-08-27"
         hash1 = "36e8bb8719a619b78862907fd49445750371f40945fefd55a9862465dc2930f9"
-        adversary = "Lockerfile"
+        adversary = "Lockfile"
    strings:
         $s1 = "find %s!\n" fullword ascii
         $s2 = "killed %s!\n" fullword ascii
