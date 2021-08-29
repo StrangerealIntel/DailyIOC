@@ -8,7 +8,7 @@ rule MAL_Kernel_Driver_Aug_2021_1 {
         hash2 = "0d18c704049700efd1353055b604072d94bcc3e5f4aa558adf8b8f8848330644"
         hash3 = "2b7ffe47b3fabf81a76386ee953d281aeaa158f4926896fcc1425c3844e73597"
         hash4 = "61423a95146d5fca47859e43d037944edb32f2004d86e14c7a522270bde6e2a8f"
-        adversary = "Lockerfile"
+        adversary = "Lockfile"
    strings:
         $s1 = "\\BaseNamedObjects\\{%08X-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X}" fullword wide
         $s2 = "\\REGISTRY\\MACHINE\\SYSTEM\\CurrentControlSet\\Services\\%ws" fullword wide
