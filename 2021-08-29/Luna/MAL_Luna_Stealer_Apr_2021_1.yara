@@ -18,7 +18,7 @@ rule MAL_Luna_Stealer_Apr_2021_1 {
         $x2 = { 5c 00 73 00 2a 00 3a 00 5c 00 73 00 2a 00 28 00 22 00 28 00 3f 00 3a 00 5c 00 5c 00 22 00 7c 00 5b 00 5e 00 22 00 5d 00 29 00 2a 00 3f }
         $x3 = { 5b 00 5c 00 77 00 2d 00 5d 00 7b 00 32 00 34 00 7d 00 5c 00 2e 00 5b 00 5c 00 77 00 2d 00 5d 00 7b 00 36 00 7d 00 5c 00 2e 00 5b 00 5c 00 77 00 2d 00 5d 00 7b 00 32 00 37 00 7d 00 01 1d 6d 00 66 00 61 00 5c 00 2e 00 5b 00 5c 00 77 00 2d 00 5d 00 7b 00 38 00 34 00 7d }
    condition:
-    uint16(0) == 0x5a4d and filesize > 20KB and all of ($x*) and 2 of ($s*)
+    uint16(0) == 0x5a4d and filesize > 20KB and 2 of ($x*) and 2 of ($s*)
 }
 
 
