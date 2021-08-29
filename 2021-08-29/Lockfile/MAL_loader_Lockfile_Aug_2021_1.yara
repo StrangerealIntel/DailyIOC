@@ -5,7 +5,7 @@ rule MAL_loader_Lockfile_Aug_2021_1 {
         reference = "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/lockfile-ransomware-new-petitpotam-windows"
         date = "2021-08-28"
         hash1 = "ed834722111782b2931e36cfa51b38852c813e3d7a4d16717f59c1d037b62291"
-        adversary = "Lockerfile"
+        adversary = "Lockfile"
    strings:
         $s1 = "c:\\windows\\system32\\calc.exe" fullword ascii 
         $s2 = { 49 48 85 c0 7f ec eb 0a 33 c9 66 89 0c 45 [2] 01 10 68 [2] 00 10 68 [2] 01 10 ff 15 [2] 00 10 6a 00 68 80 00 00 00 6a 03 6a 00 6a 02 68 00 00 00 80 68 [2] 01 10 ff 15 [2] 00 10 83 f8 ff 75 08 6a 00 ff 15 [2] 00 10 50 ff 15 [2] 00 10 c3 cc cc cc cc cc cc cc cc cc cc cc cc cc cc }
