@@ -1,6 +1,6 @@
 rule RAN_Babuk_Nov_2021_1 {
     meta:
-        description = "Detect Piton variant (Babuk)"
+        description = "Detect Piton variant (rebuild from the Babuk leaks)"
         author = "Arkbird_SOLG"
         reference ="Internal Research"
         date = "2021-11-03"
