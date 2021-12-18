@@ -1,7 +1,7 @@
 rule RAN_ALPHV_Dec_2021_1
 {
     meta:
-        description = "Detect AlphV ransomware (November 2021)"
+        description = "Detect AlphV ransomware (Nov and Dec 2021)"
         author = "Arkbird_SOLG"
         date = "2021-12-09"
         reference = "Internal Research"
