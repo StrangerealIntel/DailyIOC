@@ -7,8 +7,8 @@ rule RAN_ALPHV_Dec_2021_1
         reference = "Internal Research"
         hash1 = "3d7cf20ca6476e14e0a026f9bdd8ff1f26995cdc5854c3adb41a6135ef11ba83"
         hash2 = "7e363b5f1ba373782261713fa99e8bbc35ddda97e48799c4eb28f17989da8d8e"
-		hash3 = "cefea76dfdbb48cfe1a3db2c8df34e898e29bec9b2c13e79ef40655c637833ae"
-		hash4 = "731adcf2d7fb61a8335e23dbee2436249e5d5753977ec465754c6b699e9bf161"
+	hash3 = "cefea76dfdbb48cfe1a3db2c8df34e898e29bec9b2c13e79ef40655c637833ae"
+	hash4 = "731adcf2d7fb61a8335e23dbee2436249e5d5753977ec465754c6b699e9bf161"
         tlp = "white"
         adversary = "BlackCat"
     strings:
