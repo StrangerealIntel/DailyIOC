@@ -4,6 +4,7 @@ rule MAL_Heinote_June_2020_1 {
       author = "Arkbird_SOLG"
       reference = "https://twitter.com/JAMESWT_MHT/status/1276471822217891840"
       date = "2020-06-26"
+      modified = "2023-11-22"
       hash1 = "e0a34b9c420ddd930b3f89c13c3f564907dd948e88f668a0fe55ce506220bd73"
    strings:
       $s1 = { 5b 44 45 42 55 47 49 4e 46 4f 5d 5b 4c 4f 43 4b 5d 5b 53 45 54 5d 2d 2d 2d 2d } /*[DEBUGINFO][LOCK][SET]----*/
