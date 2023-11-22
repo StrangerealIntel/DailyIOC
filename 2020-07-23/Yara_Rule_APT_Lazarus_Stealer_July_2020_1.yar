@@ -1,6 +1,6 @@
 import "pe"
 
-rule APT_Lazarus_Stealer_Unpacked_July_2020-1 {
+rule APT_Lazarus_Stealer_Unpacked_July_2020_1 {
    meta:
       description = " Detected Lazarus stealer unpacked from Thermida - July 2020"
       author = "Arkbird_SOLG"
@@ -33,7 +33,7 @@ rule APT_Lazarus_Stealer_Unpacked_July_2020-1 {
       uint16(0) == 0x5a4d and filesize < 1500KB and pe.imphash() == "baa93d47220682c04d92f7797d9224ce" and pe.exports("BZ2_bzInit") and pe.exports("BZ2_bzZip") and pe.exports("BZ2_bzZipW") and pe.exports("adler32_z") and pe.exports("crc32_z") and pe.exports("deflateGetDictionary") and 15 of them
 }
 
-rule APT_Lazarus_Stealer_Packed_July_2020-1 {
+rule APT_Lazarus_Stealer_Packed_July_2020_1 {
    meta:
       description = "Detected Lazarus Strealer Packed by Thermida - July 2020"
       author = "Arkbird_SOLG"
