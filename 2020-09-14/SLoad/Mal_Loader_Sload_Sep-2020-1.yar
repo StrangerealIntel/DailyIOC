@@ -4,6 +4,7 @@ rule Mal_Loader_Sload_Sep-2020-1 {
       author = "Arkbird_SOLG"
       reference = "https://twitter.com/JAMESWT_MHT/status/1305480728684232704"
       date = "2020-09-14"
+      modified = "2023-11-22"
       hash1 = "06e5575f67113906effb3cdb8ea2f021f3bc5fad8d278d80eb3da943dc743c2d"
       hash2 = "147e1d26153de7bd5033968d64104bb9df597d1913f237f4f5b172f06414b775"
       hash3 = "15a61df21dc514fc4e935bb1e267134265f2c70aa167f03389c4f1a5b5a750d9"
