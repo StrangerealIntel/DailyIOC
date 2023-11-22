@@ -19,7 +19,7 @@ rule Mal_Loader_Sload_Sep-2020-1 {
       hash13 = "d1064ee3b5c35e19a703373e2e6554ba598a0b9d647d9c4da08331fe5964cba6"
       hash14 = "f6cb2ffe73e87a5d0053ca599d203d3dbc187d65b434d4c7c649c51ba2689505"
    strings:
-      $s1 = "([\?\?\?\?\?\?\?\?\?])" fullword ascii
+      $s1 = "([\\?\\?\\?\\?\\?\\?\\?\\?\\?])" fullword ascii
       $s2 = "CreateObject(\"Scripting.FileSystemObject\")" fullword ascii
       $s3 = "WScript.CreateObject (\"WScript.Shell\")" fullword ascii
       $s4 = "Array(" fullword ascii
