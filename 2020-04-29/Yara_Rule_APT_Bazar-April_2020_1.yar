@@ -12,7 +12,7 @@ rule Backdoor_APT_Nazar_April_2020_1 {
       $s2 = "hodll.dll" fullword ascii  // dll used for the hook
       $s3 = { 70 73 73 64 6B ?? ?? 2E 73 79 73 } // pssdkxx.sys PSSDK Driver Protocol vx.x 32bit from microOLAP Technologies LTD.
       $s4 = { 70 73 73 64 6B ?? ?? 2E 76 78 64 } // pssdkxx.vxd vxd profile
-      $s5 = "!!""##$$%%&&''(())**++,,--..//0123456789:;<=>?" fullword ascii // base characters
+      $s5 = "##$$%%&&''(())**++,,--..//0123456789:;<=>?" fullword ascii // base characters
       $s6 = "SYSTEM\\CurrentControlSet\\Services\\VxD\\MSTCP" fullword ascii  // Microsoft TCP/IP stack settings
       $s7 = "removehook" fullword ascii // stop keylogger
       $s8 = "installhook" fullword ascii // start keylogger
