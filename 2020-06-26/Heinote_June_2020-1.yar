@@ -4,6 +4,7 @@ rule MAL_Heinote_June_2020_1 {
       author = "Arkbird_SOLG"
       reference = "https://twitter.com/JAMESWT_MHT/status/1276471822217891840"
       date = "2020-06-26"
+      modified = "2023-11-22"
       hash1 = "e0a34b9c420ddd930b3f89c13c3f564907dd948e88f668a0fe55ce506220bd73"
    strings:
       $s1 = { 5b 44 45 42 55 47 49 4e 46 4f 5d 5b 4c 4f 43 4b 5d 5b 53 45 54 5d 2d 2d 2d 2d } /*[DEBUGINFO][LOCK][SET]----*/
@@ -18,11 +19,11 @@ rule MAL_Heinote_June_2020_1 {
       $s10 = { 75 73 65 72 6e 61 6d 65 3d 22 25 73 22 2c 20 72 65 61 6c 6d 3d 22 25 73 22 2c 20 6e 6f 6e 63 65 3d 22 25 73 22 2c 20 75 72 69 3d 22 25 73 22 2c 20 63 6e 6f 6e 63 65 3d 22 25 73 22 2c 20 6e 63 3d 25 30 38 78 2c 20 71 6f 70 3d 25 73 2c 20 72 65 73 70 6f 6e 73 65 3d 22 25 73 22 } /*username="%s", realm="%s", nonce="%s", uri="%s", cnonce="%s", nc=%08x, qop=%s, response="%s"*/
       $s11 = "System\\CurrentControlSet\\Control\\Keyboard Layouts\\%.8x" fullword ascii
       $s12 = { 25 73 20 63 6f 6f 6b 69 65 20 25 73 3d 22 25 73 22 20 66 6f 72 20 64 6f 6d 61 69 6e 20 25 73 2c 20 70 61 74 68 20 25 73 2c 20 65 78 70 69 72 65 20 25 49 36 34 64 0a } /*%s cookie %s="%s" for domain %s, path %s, expire %I64d\n*/
-      $s13 = "User-Agent: %s\r\n" fullword ascii
+      $s13 = "User-Agent: %s" fullword ascii
       $s14 = "Send failure: %s" fullword ascii
       $s15 = "ftp://%s:%s@%s" fullword ascii
-      $s16 = "Host: %s%s%s\r\n" fullword ascii
-      $s17 = "Referer: %s\r\n" fullword ascii
+      $s16 = "Host: %s%s%s" fullword ascii
+      $s17 = "Referer: %s" fullword ascii
    condition:
       uint16(0) == 0x4D5A and filesize < 450KB and 14 of them
 }

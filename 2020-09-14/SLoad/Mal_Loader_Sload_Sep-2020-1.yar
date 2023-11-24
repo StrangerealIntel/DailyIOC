@@ -4,6 +4,7 @@ rule Mal_Loader_Sload_Sep-2020-1 {
       author = "Arkbird_SOLG"
       reference = "https://twitter.com/JAMESWT_MHT/status/1305480728684232704"
       date = "2020-09-14"
+      modified = "2023-11-22"
       hash1 = "06e5575f67113906effb3cdb8ea2f021f3bc5fad8d278d80eb3da943dc743c2d"
       hash2 = "147e1d26153de7bd5033968d64104bb9df597d1913f237f4f5b172f06414b775"
       hash3 = "15a61df21dc514fc4e935bb1e267134265f2c70aa167f03389c4f1a5b5a750d9"
@@ -19,7 +20,7 @@ rule Mal_Loader_Sload_Sep-2020-1 {
       hash13 = "d1064ee3b5c35e19a703373e2e6554ba598a0b9d647d9c4da08331fe5964cba6"
       hash14 = "f6cb2ffe73e87a5d0053ca599d203d3dbc187d65b434d4c7c649c51ba2689505"
    strings:
-      $s1 = "([\?\?\?\?\?\?\?\?\?])" fullword ascii
+      $s1 = "([\\?\\?\\?\\?\\?\\?\\?\\?\\?])" fullword ascii
       $s2 = "CreateObject(\"Scripting.FileSystemObject\")" fullword ascii
       $s3 = "WScript.CreateObject (\"WScript.Shell\")" fullword ascii
       $s4 = "Array(" fullword ascii

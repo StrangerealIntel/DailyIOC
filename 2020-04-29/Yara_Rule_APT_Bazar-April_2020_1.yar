@@ -6,13 +6,14 @@ rule Backdoor_APT_Nazar_April_2020_1 {
       author = "Arkbird_SOLG"
       reference = "Internal research"
       date = "2020-04-29"
+      modified = "2023-11-22"
       hash1 = "2fe9b76496a9480273357b6d35c012809bfa3ae8976813a7f5f4959402e3fbb6"
    strings:
       $s1 = "101;0000;" fullword ascii // string used on ping sended
       $s2 = "hodll.dll" fullword ascii  // dll used for the hook
       $s3 = { 70 73 73 64 6B ?? ?? 2E 73 79 73 } // pssdkxx.sys PSSDK Driver Protocol vx.x 32bit from microOLAP Technologies LTD.
       $s4 = { 70 73 73 64 6B ?? ?? 2E 76 78 64 } // pssdkxx.vxd vxd profile
-      $s5 = "!!""##$$%%&&''(())**++,,--..//0123456789:;<=>?" fullword ascii // base characters
+      $s5 = "##$$%%&&''(())**++,,--..//0123456789:;<=>?" fullword ascii // base characters
       $s6 = "SYSTEM\\CurrentControlSet\\Services\\VxD\\MSTCP" fullword ascii  // Microsoft TCP/IP stack settings
       $s7 = "removehook" fullword ascii // stop keylogger
       $s8 = "installhook" fullword ascii // start keylogger
