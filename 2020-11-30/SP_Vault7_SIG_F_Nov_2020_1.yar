@@ -19,5 +19,5 @@ rule SP_Vault7_SIG_F_Nov_2020_1 {
       // seq on User-Domain request + debug rights check
       $dbg9 = { 53 55 56 57 68 14 ?? 40 00 e8 17 0c 00 00 8b 6c 24 1c [1-4] 45 00 50 68 e0 ?? 40 00 e8 ?? ?? 00 00 83 c4 ?? e8 ?? 02 00 00 85 c0 75 1d e8 ?? 02 00 00 85 c0 75 14 68 b4 ?? 40 00 e8 ?? 0b 00 00 83 c4 04 33 c0 5f 5e 5d 5b }
    condition:
-      uint16(0) == 0x4d5a and filesize > 50KB and 6 of them
+      uint16(0) == 0x5a4d and filesize > 50KB and 6 of them
 }
