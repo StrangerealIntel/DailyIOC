@@ -61,5 +61,5 @@ rule APT_APT28_Zebrocy_GO_Downloader_Nov_2020_1 {
       $op5 = { 2d 2d 2d 2d 2d 42 45 47 49 4e 20 52 53 41 20 54 45 53 54 49 4e 47 20 4b 45 59 2d 2d 2d 2d 2d }
       $op6 = { 2d 2d 2d 2d 2d 45 4e 44 20 52 53 41 20 54 45 53 54 49 4e 47 20 4b 45 59 2d 2d 2d 2d 2d }
    condition:
-      uint16(0) == 0x4d5a and filesize > 800KB and (pe.imphash() == "91802a615b3a5c4bcc05bc5f66a5b219") and 3 of ($c*) and 3 of ($p*) and 3 of ($op*)
+      uint16(0) == 0x5a4d and filesize > 800KB and (pe.imphash() == "91802a615b3a5c4bcc05bc5f66a5b219") and 3 of ($c*) and 3 of ($p*) and 3 of ($op*)
 }
